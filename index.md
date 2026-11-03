@@ -18,7 +18,7 @@ Three NPS passport stamps in one weekend: Lincoln Home, Gateway Arch, and Ulysse
 .hero-fig img { max-height: 420px; object-fit: cover; }
 </style>
 
-<figure class="trip-fig hero-fig"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/The%20Gateway%20Arch%2C%20Jefferson%20National%20Expansion%20Memorial%2C%20St.%20Louis%2C%20MO%2C%20USA.jpg?width=1280" alt="The Gateway Arch, St. Louis — Saturday's 9 AM anchor stop." loading="lazy"><figcaption>The Gateway Arch, St. Louis — Saturday's 9 AM anchor stop.</figcaption></figure>
+<figure class="trip-fig hero-fig"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/The%20Gateway%20Arch%2C%20Jefferson%20National%20Expansion%20Memorial%2C%20St.%20Louis%2C%20MO%2C%20USA.jpg?width=1280" alt="The Gateway Arch, St. Louis — Saturday afternoon's anchor stop." loading="lazy"><figcaption>The Gateway Arch, St. Louis — Saturday afternoon's anchor stop.</figcaption></figure>
 
 ## Contents {#contents}
 
@@ -26,7 +26,7 @@ Three NPS passport stamps in one weekend: Lincoln Home, Gateway Arch, and Ulysse
 - [Weather in St. Louis — live forecast](#weather)
 - [Trip map — color-coded by day](#trip-map)
 - [Day 1 — Fri Nov 6: Lombard → Lincoln Home → St. Louis](#day-1)
-- [Day 2 — Sat Nov 7: Arch, Grant, Forest Park & City Museum](#day-2)
+- [Day 2 — Sat Nov 7: Grant, Old Courthouse, Arch & City Museum](#day-2)
 - [Day 3 — Sun Nov 8: drive home](#day-3)
 - [NPS park stores on this route](#nps-stores)
 - [Stamp checklist](#stamp-checklist)
@@ -44,8 +44,8 @@ Three NPS passport stamps in one weekend: Lincoln Home, Gateway Arch, and Ulysse
 - Confirmation number is in the email, not on this public page
 
 ### ⏳ Still open
-- **Hotel in St. Louis — not yet booked.** Downtown near the Arch / Union Station makes Friday night and the Saturday 9 AM Arch start effortless.
-- **Gateway Arch tram tickets** for Sat Nov 7, ~9 AM — timed tickets, book in advance at gatewayarch.com (they sell out). Adult from $15, tram experience is 45–60 min.
+- **Hotel in St. Louis — not yet booked.** Downtown near the Arch / Union Station makes Friday night effortless and puts you 20 mins from Saturday's 9 AM Grant NHS start.
+- **Gateway Arch tram tickets** for Sat Nov 7, **afternoon (~1:00 PM slot)** — timed tickets, book in advance at gatewayarch.com (they sell out). Adult from $15, tram experience is 45–60 min. Grant NHS is Saturday morning now, the Arch moved to the afternoon — nothing was booked yet, so nothing to change.
 - Who's going — not yet settled in the plan.
 
 ## Weather in St. Louis — live forecast {#weather}
@@ -138,15 +138,16 @@ Every stop on one map: 🔵 **Day 1** (Fri, drive down + Springfield + Union Sta
   - Dinner on site (Train Shed, Soda Fountain, Landry's) — dinner and Union Station are one stop
   - The **St. Louis Aquarium (9 AM–7 PM)** is *not* a Friday stop — you arrive as it closes. See the Saturday swap note below.
 
-## Day 2 — Sat Nov 7: Arch, Grant, Forest Park & City Museum {#day-2}
+## Day 2 — Sat Nov 7: Grant, Old Courthouse, Arch & City Museum {#day-2}
 
-- **9:00 AM — [Gateway Arch National Park](https://www.google.com/maps/search/?api=1&query=Gateway+Arch+National+Park+St+Louis).** Book the timed tram ticket in advance, arrive 30 mins ahead. Tram experience 45–60 mins, adult from $15. Visitor Center / Museum **9 AM–6 PM** in fall/winter; the museum underneath is free. **Passport stamp** at the visitor center. **The Arch Store** (JNPA) is in the visitor center, to the right as you exit the museum.
-- **~10:30 AM — [Old Courthouse](https://www.google.com/maps/search/?api=1&query=Old+Courthouse+11+N+4th+St+St+Louis)** (11 N. 4th St, two blocks west). Free, **9 AM–5 PM**. Dred Scott case site. Its JNPA shop focuses on Dred Scott and St. Louis history.
-- **11:30 AM–1:00 PM — [Ulysses S. Grant National Historic Site](https://www.google.com/maps/search/?api=1&query=Ulysses+S+Grant+National+Historic+Site+7400+Grant+Rd+St+Louis)** (7400 Grant Rd, ~20 mins southwest). Free, **9 AM–5 PM**. Ranger-led White Haven house tour, film, stable museum — and the **passport stamp in the visitor center**, where the JNPA park store also sells America the Beautiful passes.
-- **Afternoon — pick ONE, you can't do both well:**
-  - **Forest Park cluster (free):** [Saint Louis Zoo](https://www.google.com/maps/search/?api=1&query=Saint+Louis+Zoo+1+Government+Dr) — free admission, **9 AM–4 PM** in November (Oct 8–Dec 31 hours), so 2:00–4:00 is the usable window; plus [Saint Louis Art Museum](https://www.google.com/maps/search/?api=1&query=Saint+Louis+Art+Museum+1+Fine+Arts+Dr) across the park, free, Sat **10 AM–5 PM**.
-  - **[Missouri Botanical Garden](https://www.google.com/maps/search/?api=1&query=Missouri+Botanical+Garden+4344+Shaw+Blvd+St+Louis)** — **9 AM–5 PM**, last entry 4:30, $16 adults / children 12 and under free. Climatron + Japanese Garden are the highlights.
-  - *Aquarium swap:* the St. Louis Aquarium at Union Station (9 AM–7 PM, ~$25–30 adults, ~1.5–2 hrs) can replace this whole afternoon slot — it doesn't stack on top of it.
+- **9:00 AM — [Ulysses S. Grant National Historic Site](https://www.google.com/maps/search/?api=1&query=Ulysses+S+Grant+National+Historic+Site+7400+Grant+Rd+St+Louis)** (7400 Grant Rd, ~20 mins southwest of downtown). Free, **9 AM–5 PM** — go at opening now that it's the morning stop. Ranger-led White Haven house tour, film, stable museum — and the **passport stamp in the visitor center**, where the JNPA park store also sells America the Beautiful passes. Done by ~10:30 AM.
+- **~11:00 AM — [Old Courthouse](https://www.google.com/maps/search/?api=1&query=Old+Courthouse+11+N+4th+St+St+Louis)** (11 N. 4th St, downtown, two blocks west of the Arch). Free, **9 AM–5 PM**. Dred Scott case site. Doing it late-morning keeps it safe — it closes at 5 PM, before the Arch visitor center. Its JNPA shop focuses on Dred Scott and St. Louis history. Quick downtown lunch after.
+- **~1:00 PM — [Gateway Arch National Park](https://www.google.com/maps/search/?api=1&query=Gateway+Arch+National+Park+St+Louis) — afternoon.** Book the timed tram ticket for ~1:00 PM in advance, arrive 30 mins ahead. Tram experience 45–60 mins, adult from $15. Visitor Center / Museum **9 AM–6 PM** in fall/winter; the museum underneath is free. **Passport stamp** at the visitor center. **The Arch Store** (JNPA) is in the visitor center, to the right as you exit the museum. Done by ~3:00–3:30 PM, with the museum as buffer if the tram runs late.
+- **Late afternoon — squeezed, pick at most ONE short version:** Moving the Arch to the afternoon costs the old afternoon slot.
+  - [Saint Louis Art Museum](https://www.google.com/maps/search/?api=1&query=Saint+Louis+Art+Museum+1+Fine+Arts+Dr) (Forest Park) — free, Sat **10 AM–5 PM**: a ~1 hr highlights visit if you're out of the Arch by 3:30.
+  - [Missouri Botanical Garden](https://www.google.com/maps/search/?api=1&query=Missouri+Botanical+Garden+4344+Shaw+Blvd+St+Louis) — **9 AM–5 PM**, last entry 4:30, $16 adults / children 12 and under free: Climatron + Japanese Garden sprint only.
+  - The **Saint Louis Zoo drops out** on this order — it's free but closes **4 PM** in November, so there's no real window after the Arch.
+  - *Aquarium swap:* the St. Louis Aquarium at Union Station (9 AM–7 PM, ~$25–30 adults) still fits here instead — it's the one afternoon option open late enough.
 - **Evening — [City Museum](https://www.google.com/maps/search/?api=1&query=City+Museum+750+N+16th+St+St+Louis)** (750 N. 16th St). Open late on Saturdays — the after-dinner slot. Climbing, tunnels and a 10-story slide in a former shoe factory; wear shoes you can move in. Only ~0.7 mi from Union Station, so it also pairs with a sunset Wheel ride if Friday ran late.
 
 ## Day 3 — Sun Nov 8: drive home {#day-3}
@@ -162,9 +163,9 @@ All three NPS stops have a park store:
 | Stop | Store | Operator | Notes |
 |---|---|---|---|
 | Lincoln Home (Fri) | Bookstore & gift shop, Visitor Center | Eastern National | Same org as America's National Parks / the passport sticker shop. Lincoln-themed books and gifts. |
-| Gateway Arch (Sat) | **The Arch Store**, Arch Visitor Center | Jefferson National Parks Association (JNPA) | The biggest selection of the weekend — Arch souvenirs, books, western/Jefferson items. Open visitor-center hours (9 AM–6 PM in Nov). Online: shop.jnpa.com |
-| Old Courthouse (Sat) | Old Courthouse Shop | JNPA | Dred Scott case and St. Louis history focus. |
-| Grant NHS (Sat) | Park store, Visitor Center, 7400 Grant Rd | JNPA | 9 AM–5 PM. Books/gifts; also sells and issues America the Beautiful passes. |
+| Grant NHS (Sat morning) | Park store, Visitor Center, 7400 Grant Rd | Jefferson National Parks Association (JNPA) | 9 AM–5 PM. Books/gifts; also sells and issues America the Beautiful passes. |
+| Old Courthouse (Sat late morning) | Old Courthouse Shop | JNPA | Dred Scott case and St. Louis history focus. |
+| Gateway Arch (Sat afternoon) | **The Arch Store**, Arch Visitor Center | JNPA | The biggest selection of the weekend — Arch souvenirs, books, western/Jefferson items. Open visitor-center hours (9 AM–6 PM in Nov). Online: shop.jnpa.com |
 
 Union Station, City Museum, the Zoo, the Art Museum and the Botanical Garden all have their own gift shops — they're just not NPS stores. For passport-book merch and stickers, the Arch Store is the best bet.
 
@@ -173,17 +174,17 @@ Union Station, City Museum, the Zoo, the Art Museum and the Botanical Garden all
 Three NPS passport stamps, one per anchor stop:
 
 - [ ] **Lincoln Home National Historic Site** — Visitor Center desk, Springfield (Fri)
-- [ ] **Gateway Arch National Park** — Arch Visitor Center (Sat)
-- [ ] **Ulysses S. Grant National Historic Site** — Visitor Center, 7400 Grant Rd (Sat)
+- [ ] **Ulysses S. Grant National Historic Site** — Visitor Center, 7400 Grant Rd (Sat morning)
+- [ ] **Gateway Arch National Park** — Arch Visitor Center (Sat afternoon)
 
 Plus the free official brochures (unigrids) at each of the three desks — grab them where you stamp.
 
 ## Know before you go {#know-before-you-go}
 
 - **Lincoln Home is the tight link.** Noon pickup in Lombard → Springfield ~3:30 PM → last house tour ~4:00–4:30 PM with first-come tickets that can run out. If the interior tour becomes a must-do, the only real fix is an earlier departure — there is no Sunday version of this stop (Springfield at ~8 AM on the way home is before the 9 AM opening, and the tour + 3 hr drive would blow the noon Lombard return).
-- **Book the Arch tram now, not that week.** Timed tickets sell out; the museum and grounds are free if tram slots are gone, but the ride is the point.
-- **Daylight is short.** Clocks went back Nov 1; sunset in St. Louis is ~4:55 PM on Nov 6–7. Saturday's outdoor stops are morning/afternoon by design.
-- **The Zoo closes at 4 PM in November** — don't leave Forest Park for last.
+- **Book the Arch tram now, not that week — for Saturday afternoon (~1 PM).** Timed tickets sell out; the museum and grounds are free if tram slots are gone, but the ride is the point.
+- **Daylight is short.** Clocks went back Nov 1; sunset in St. Louis is ~4:55 PM on Nov 6–7. Grant (morning) is Saturday's main outdoor stop; the Arch grounds work fine in the last light after the tram.
+- **The Zoo effectively drops out on the new order** — it closes at 4 PM in November and there's no real window after an afternoon Arch. The Art Museum (til 5 PM) or the Botanical Garden (last entry 4:30) are the only Forest Park-area options left, as short visits.
 - **Tolls:** I-55 to Springfield/St. Louis has no tolls on the mainline run south of the Chicago area, but getting to Lombard / onto I-55 may cross I-294 / I-355 tolls — the rental's TollPass is optional; your own I-PASS works if you bring the transponder and add the rental plate for the rental dates (that's what the October dispute was about — add it *before* you drive).
 - Carry the passport book in the car Friday — the Lincoln Home stamp is on the drive down, not in St. Louis.
 

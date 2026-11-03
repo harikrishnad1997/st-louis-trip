@@ -12,7 +12,7 @@ A weekend road-trip itinerary from the Chicago suburbs to St. Louis — with a N
 | Day | Plan |
 |---|---|
 | **Fri Nov 6** | 12:00 PM Enterprise pickup in Lombard → I-55 south → **Lincoln Home National Historic Site**, Springfield (~3:30 PM; stamp + visitor center, house tour first-come) → St. Louis by ~6:30–7:00 PM → **Union Station** evening: Grand Hall light show (hourly 5–10 PM), the St. Louis Wheel, dinner on site |
-| **Sat Nov 7** | **Gateway Arch** 9:00 AM (timed tram ticket) + museum + Old Courthouse → **Ulysses S. Grant National Historic Site** 11:30 AM → afternoon pick-one: Forest Park (Saint Louis Zoo + Art Museum, both free) *or* Missouri Botanical Garden → **City Museum** in the evening |
+| **Sat Nov 7** | **Ulysses S. Grant National Historic Site** 9:00 AM → Old Courthouse ~11:00 AM → **Gateway Arch** in the afternoon (~1:00 PM timed tram ticket) + museum → late-afternoon short option only (Art Museum til 5 PM, Botanical Garden last entry 4:30, or the Aquarium til 7 PM; the Zoo closes 4 PM and drops out) → **City Museum** in the evening |
 | **Sun Nov 8** | Leave St. Louis by 6:30 AM → 12:00 PM rental return in Lombard. No sightseeing — the drive is the day |
 
 ## Passport stamps
@@ -20,8 +20,8 @@ A weekend road-trip itinerary from the Chicago suburbs to St. Louis — with a N
 Three NPS stamps in one weekend — and all three sites have a park store:
 
 - [ ] **Lincoln Home National Historic Site** — Visitor Center, Springfield (Eastern National bookstore)
-- [ ] **Gateway Arch National Park** — Arch Visitor Center (The Arch Store, run by Jefferson National Parks Association)
-- [ ] **Ulysses S. Grant National Historic Site** — Visitor Center, 7400 Grant Rd (JNPA store)
+- [ ] **Ulysses S. Grant National Historic Site** — Visitor Center, 7400 Grant Rd (JNPA store) — Sat morning
+- [ ] **Gateway Arch National Park** — Arch Visitor Center (The Arch Store, run by Jefferson National Parks Association) — Sat afternoon
 
 The Old Courthouse (Dred Scott site, part of Gateway Arch National Park) also has a JNPA shop.
 
@@ -29,7 +29,7 @@ The Old Courthouse (Dred Scott site, part of Gateway Arch National Park) also ha
 
 - ✅ **Rental car** — Enterprise, Lombard (920 E Roosevelt Rd), Fri Nov 6 12:00 PM → Sun Nov 8 12:00 PM, Chrysler Pacifica or similar, unlimited mileage, $106.75 est. total. Confirmation number is kept off this public page.
 - ⏳ **Hotel** — not yet booked (downtown near the Arch / Union Station recommended)
-- ⏳ **Gateway Arch tram tickets** — book timed tickets in advance at gatewayarch.com
+- ⏳ **Gateway Arch tram tickets** — book a timed **Saturday afternoon (~1:00 PM)** slot in advance at gatewayarch.com (Grant NHS is Saturday morning)
 
 ## What's in this repo
 
