@@ -1,0 +1,199 @@
+---
+layout: default
+title: St. Louis Weekend — Road Trip Itinerary, Nov 6–8, 2026
+---
+
+# St. Louis Weekend
+
+**Road-trip itinerary · Fri Nov 6 – Sun Nov 8, 2026 · Elmhurst / Lombard → Springfield → St. Louis**
+Three NPS passport stamps in one weekend: Lincoln Home, Gateway Arch, and Ulysses S. Grant.
+
+<style>
+.trip-fig { margin: 14px 0; }
+.trip-fig img { width: 100%; height: auto; border-radius: 10px; display: block; }
+.trip-fig figcaption { font-size: 0.85em; color: #606c71; text-align: center; margin-top: 5px; }
+.photo-row { display: flex; gap: 12px; flex-wrap: wrap; margin: 6px 0 10px; }
+.photo-row .trip-fig { flex: 1 1 260px; margin: 0; }
+.photo-row .trip-fig img { height: 220px; object-fit: cover; }
+.hero-fig img { max-height: 420px; object-fit: cover; }
+</style>
+
+<figure class="trip-fig hero-fig"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/The%20Gateway%20Arch%2C%20Jefferson%20National%20Expansion%20Memorial%2C%20St.%20Louis%2C%20MO%2C%20USA.jpg?width=1280" alt="The Gateway Arch, St. Louis — Saturday's 9 AM anchor stop." loading="lazy"><figcaption>The Gateway Arch, St. Louis — Saturday's 9 AM anchor stop.</figcaption></figure>
+
+## Contents {#contents}
+
+- [Bookings](#bookings)
+- [Weather in St. Louis — live forecast](#weather)
+- [Trip map — color-coded by day](#trip-map)
+- [Day 1 — Fri Nov 6: Lombard → Lincoln Home → St. Louis](#day-1)
+- [Day 2 — Sat Nov 7: Arch, Grant, Forest Park & City Museum](#day-2)
+- [Day 3 — Sun Nov 8: drive home](#day-3)
+- [NPS park stores on this route](#nps-stores)
+- [Stamp checklist](#stamp-checklist)
+- [Know before you go](#know-before-you-go)
+- [Packing checklist](#packing-checklist)
+
+## Bookings {#bookings}
+
+### 🚗 Rental car — Enterprise, Lombard
+920 E Roosevelt Rd, Lombard, IL 60148 · (630) 916-7700
+- Pickup **Fri Nov 6, 2026 @ 12:00 PM**
+- Return **Sun Nov 8, 2026 @ 12:00 PM**, same location
+- Chrysler Pacifica or similar, automatic, unlimited mileage, 9 additional drivers included
+- **$106.75 estimated total** (2 days @ $48.30 + taxes/fees)
+- Confirmation number is in the email, not on this public page
+
+### ⏳ Still open
+- **Hotel in St. Louis — not yet booked.** Downtown near the Arch / Union Station makes Friday night and the Saturday 9 AM Arch start effortless.
+- **Gateway Arch tram tickets** for Sat Nov 7, ~9 AM — timed tickets, book in advance at gatewayarch.com (they sell out). Adult from $15, tram experience is 45–60 min.
+- Who's going — not yet settled in the plan.
+
+## Weather in St. Louis — live forecast {#weather}
+
+Live forecast for St. Louis, MO, powered by [Open-Meteo](https://open-meteo.com)
+Backup: the [National Weather Service forecast for St. Louis](https://forecast.weather.gov/MapClick.php?lat=38.6273&lon=-90.1994).
+
+<div id="wx" class="wx-row"><p>Loading the latest forecast…</p></div>
+<p id="wx-note" class="wx-note"></p>
+
+<style>
+.wx-row { display: flex; gap: 10px; flex-wrap: wrap; margin: 10px 0 4px; }
+.wx-card { flex: 1 1 100px; max-width: 128px; border: 1px solid #d6dee3; border-radius: 10px; padding: 10px 6px; text-align: center; background: #f7faf9; }
+.wx-card.trip { border: 2px solid #2e5a3c; background: #eef6f0; }
+.wx-d { font-weight: 700; font-size: 13px; }
+.wx-i { font-size: 26px; line-height: 1.25; }
+.wx-t { font-size: 14px; font-weight: 600; }
+.wx-c { font-size: 12px; color: #606c71; }
+.wx-p { font-size: 12px; color: #1d6fb8; }
+.wx-note { font-size: 12px; color: #606c71; margin-top: 0; }
+</style>
+
+<script>
+(function () {
+  var el = document.getElementById("wx");
+  var note = document.getElementById("wx-note");
+  var TRIP = { "2026-11-06": 1, "2026-11-07": 1, "2026-11-08": 1 };
+  function wmo(c) {
+    if (c === 0) return ["☀️", "Clear"];
+    if (c === 1 || c === 2) return ["🌤️", "Partly cloudy"];
+    if (c === 3) return ["☁️", "Overcast"];
+    if (c === 45 || c === 48) return ["🌫️", "Fog"];
+    if (c === 51 || c === 53 || c === 55) return ["🌦️", "Drizzle"];
+    if (c === 56 || c === 57) return ["🌦️", "Freezing drizzle"];
+    if (c === 61 || c === 63 || c === 65) return ["🌧️", "Rain"];
+    if (c === 66 || c === 67) return ["🌧️", "Freezing rain"];
+    if (c === 71 || c === 73 || c === 75 || c === 77) return ["🌨️", "Snow"];
+    if (c === 80 || c === 81 || c === 82) return ["🌦️", "Showers"];
+    if (c === 85 || c === 86) return ["🌨️", "Snow showers"];
+    if (c === 95) return ["⛈️", "Thunderstorm"];
+    if (c === 96 || c === 99) return ["⛈️", "Thunderstorm, hail"];
+    return ["🌡️", ""];
+  }
+  function dayName(iso) {
+    var p = iso.split("-");
+    var d = new Date(p[0], p[1] - 1, p[2]);
+    var days = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+    var mons = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+    return days[d.getDay()] + " " + mons[d.getMonth()] + " " + d.getDate();
+  }
+  fetch("https://api.open-meteo.com/v1/forecast?latitude=38.6273&longitude=-90.1994&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max&temperature_unit=fahrenheit&timezone=America%2FChicago&forecast_days=10")
+    .then(function (r) { return r.json(); })
+    .then(function (d) {
+      var t = d.daily.time, html = "", seen = 0;
+      for (var i = 0; i < t.length; i++) {
+        var w = wmo(d.daily.weather_code[i]);
+        var isTrip = TRIP[t[i]] ? " trip" : "";
+        if (TRIP[t[i]]) seen++;
+        var pp = d.daily.precipitation_probability_max[i];
+        html += '<div class="wx-card' + isTrip + '"><div class="wx-d">' + dayName(t[i]) + (TRIP[t[i]] ? " · TRIP" : "") + '</div><div class="wx-i">' + w[0] + '</div><div class="wx-t">' + Math.round(d.daily.temperature_2m_max[i]) + "° / " + Math.round(d.daily.temperature_2m_min[i]) + '°F</div><div class="wx-c">' + w[1] + '</div><div class="wx-p">' + (pp === null || pp === undefined ? "" : "💧 " + pp + "%") + "</div></div>";
+      }
+      el.innerHTML = html;
+      note.textContent = seen === 0
+        ? "Showing the next 10 days. Your trip (Nov 6–8) is still beyond the 10-day forecast window — check back during trip week and those days will be highlighted here."
+        : "Your trip days are in this forecast — the green cards are the ones that matter. Friday is a driving day; Saturday is the outdoor day to dress for.";
+    })
+    .catch(function () {
+      el.innerHTML = '<p>Could not load the live forecast right now — use the <a href="https://forecast.weather.gov/MapClick.php?lat=38.6273&lon=-90.1994">National Weather Service forecast for St. Louis</a> instead.</p>';
+    });
+})();
+</script>
+
+## Trip map — color-coded by day {#trip-map}
+
+Every stop on one map: 🔵 **Day 1** (Fri, drive down + Springfield + Union Station) · 🟠 **Day 2** (Sat, St. Louis) · 🟢 **Day 3** (Sun, drive home) · ⚫ rental pickup/return. Pins are numbered in visit order — tap a pin for the stop and a Google Maps link. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone. Note the map shows the St. Louis / Springfield stops in detail; the I-55 drive itself is a straight shot between them.
+
+<iframe src="map.html" width="100%" style="border:1px solid #ccc; border-radius:8px; height:82vh; min-height:620px;" loading="lazy" title="St. Louis weekend map — stops color-coded by day"></iframe>
+
+## Day 1 — Fri Nov 6: Lombard → Lincoln Home → St. Louis {#day-1}
+
+<figure class="trip-fig"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Lincoln%20Home%20NHS%20at%20Sunset.jpg?width=1280" alt="Lincoln Home National Historic Site, Springfield — the only home Lincoln ever owned." loading="lazy"><figcaption>Lincoln Home National Historic Site, Springfield — the only home Lincoln ever owned.</figcaption></figure>
+
+- **12:00 PM — Pickup: [Enterprise, Lombard](https://www.google.com/maps/search/?api=1&query=Enterprise+Rent-A-Car+920+E+Roosevelt+Rd+Lombard+IL).** On I-55 south by ~12:20 PM. Total drive to St. Louis is ~288 mi / ~4 hrs 51 mins nonstop — Springfield is the planned stop, not an add-on detour: it's right on I-55.
+- **~3:30–3:45 PM — [Lincoln Home National Historic Site, Springfield](https://www.google.com/maps/search/?api=1&query=Lincoln+Home+National+Historic+Site+Springfield+IL)** (426 S. 7th St). Elmhurst/Lombard → Springfield is ~192 mi / ~3 hrs 10 mins. Visitor Center open **9 AM–5 PM** — passport stamp, exhibits and film are the guaranteed part. The house tour is free but tickets are **first-come, first-served, in-person only on the day** (no online/phone reservations for groups under 15) and NPS warns they run out fast in the March–November season; the last tour starts ~4:00–4:30 PM, so at this arrival time the tour is a bonus, not a promise. Eastern National bookstore & gift shop is in the Visitor Center. Parking $2/hr in the park lot. Allow 45–75 mins total.
+- **~4:45–5:00 PM — Leave Springfield.** Springfield → St. Louis is ~96 mi / ~1 hr 35 mins. Sunset is ~4:55 PM, so this leg is after dark.
+- **~6:30–7:00 PM — Arrive St. Louis, check in, then [St. Louis Union Station](https://www.google.com/maps/search/?api=1&query=St+Louis+Union+Station+1820+Market+St)** (1820 Market St). The one downtown spot still fully alive in the evening:
+  - **Grand Hall** — free 3D light show on the 65-ft ceiling, **on the hour 5–10 PM daily**
+  - **[St. Louis Wheel](https://www.google.com/maps/search/?api=1&query=The+St+Louis+Wheel)** — 200-ft, climate-controlled gondolas, **10 AM–10 PM**, from ~$19
+  - **Fire & Light Show** on the lake outside, after dark, free
+  - Dinner on site (Train Shed, Soda Fountain, Landry's) — dinner and Union Station are one stop
+  - The **St. Louis Aquarium (9 AM–7 PM)** is *not* a Friday stop — you arrive as it closes. See the Saturday swap note below.
+
+## Day 2 — Sat Nov 7: Arch, Grant, Forest Park & City Museum {#day-2}
+
+- **9:00 AM — [Gateway Arch National Park](https://www.google.com/maps/search/?api=1&query=Gateway+Arch+National+Park+St+Louis).** Book the timed tram ticket in advance, arrive 30 mins ahead. Tram experience 45–60 mins, adult from $15. Visitor Center / Museum **9 AM–6 PM** in fall/winter; the museum underneath is free. **Passport stamp** at the visitor center. **The Arch Store** (JNPA) is in the visitor center, to the right as you exit the museum.
+- **~10:30 AM — [Old Courthouse](https://www.google.com/maps/search/?api=1&query=Old+Courthouse+11+N+4th+St+St+Louis)** (11 N. 4th St, two blocks west). Free, **9 AM–5 PM**. Dred Scott case site. Its JNPA shop focuses on Dred Scott and St. Louis history.
+- **11:30 AM–1:00 PM — [Ulysses S. Grant National Historic Site](https://www.google.com/maps/search/?api=1&query=Ulysses+S+Grant+National+Historic+Site+7400+Grant+Rd+St+Louis)** (7400 Grant Rd, ~20 mins southwest). Free, **9 AM–5 PM**. Ranger-led White Haven house tour, film, stable museum — and the **passport stamp in the visitor center**, where the JNPA park store also sells America the Beautiful passes.
+- **Afternoon — pick ONE, you can't do both well:**
+  - **Forest Park cluster (free):** [Saint Louis Zoo](https://www.google.com/maps/search/?api=1&query=Saint+Louis+Zoo+1+Government+Dr) — free admission, **9 AM–4 PM** in November (Oct 8–Dec 31 hours), so 2:00–4:00 is the usable window; plus [Saint Louis Art Museum](https://www.google.com/maps/search/?api=1&query=Saint+Louis+Art+Museum+1+Fine+Arts+Dr) across the park, free, Sat **10 AM–5 PM**.
+  - **[Missouri Botanical Garden](https://www.google.com/maps/search/?api=1&query=Missouri+Botanical+Garden+4344+Shaw+Blvd+St+Louis)** — **9 AM–5 PM**, last entry 4:30, $16 adults / children 12 and under free. Climatron + Japanese Garden are the highlights.
+  - *Aquarium swap:* the St. Louis Aquarium at Union Station (9 AM–7 PM, ~$25–30 adults, ~1.5–2 hrs) can replace this whole afternoon slot — it doesn't stack on top of it.
+- **Evening — [City Museum](https://www.google.com/maps/search/?api=1&query=City+Museum+750+N+16th+St+St+Louis)** (750 N. 16th St). Open late on Saturdays — the after-dinner slot. Climbing, tunnels and a 10-story slide in a former shoe factory; wear shoes you can move in. Only ~0.7 mi from Union Station, so it also pairs with a sunset Wheel ride if Friday ran late.
+
+## Day 3 — Sun Nov 8: drive home {#day-3}
+
+- **No sightseeing.** With a noon return in Lombard, the drive home is the day.
+- **Leave St. Louis by 6:30 AM at the latest** — 6:00 AM for buffer. ~5 hrs + a fuel stop lands in Lombard ~11:45 AM with no slack.
+- **12:00 PM — Return: Enterprise, Lombard.** Refuel before return; keep the fuel receipt.
+
+## NPS park stores on this route {#nps-stores}
+
+All three NPS stops have a park store:
+
+| Stop | Store | Operator | Notes |
+|---|---|---|---|
+| Lincoln Home (Fri) | Bookstore & gift shop, Visitor Center | Eastern National | Same org as America's National Parks / the passport sticker shop. Lincoln-themed books and gifts. |
+| Gateway Arch (Sat) | **The Arch Store**, Arch Visitor Center | Jefferson National Parks Association (JNPA) | The biggest selection of the weekend — Arch souvenirs, books, western/Jefferson items. Open visitor-center hours (9 AM–6 PM in Nov). Online: shop.jnpa.com |
+| Old Courthouse (Sat) | Old Courthouse Shop | JNPA | Dred Scott case and St. Louis history focus. |
+| Grant NHS (Sat) | Park store, Visitor Center, 7400 Grant Rd | JNPA | 9 AM–5 PM. Books/gifts; also sells and issues America the Beautiful passes. |
+
+Union Station, City Museum, the Zoo, the Art Museum and the Botanical Garden all have their own gift shops — they're just not NPS stores. For passport-book merch and stickers, the Arch Store is the best bet.
+
+## Stamp checklist {#stamp-checklist}
+
+Three NPS passport stamps, one per anchor stop:
+
+- [ ] **Lincoln Home National Historic Site** — Visitor Center desk, Springfield (Fri)
+- [ ] **Gateway Arch National Park** — Arch Visitor Center (Sat)
+- [ ] **Ulysses S. Grant National Historic Site** — Visitor Center, 7400 Grant Rd (Sat)
+
+Plus the free official brochures (unigrids) at each of the three desks — grab them where you stamp.
+
+## Know before you go {#know-before-you-go}
+
+- **Lincoln Home is the tight link.** Noon pickup in Lombard → Springfield ~3:30 PM → last house tour ~4:00–4:30 PM with first-come tickets that can run out. If the interior tour becomes a must-do, the only real fix is an earlier departure — there is no Sunday version of this stop (Springfield at ~8 AM on the way home is before the 9 AM opening, and the tour + 3 hr drive would blow the noon Lombard return).
+- **Book the Arch tram now, not that week.** Timed tickets sell out; the museum and grounds are free if tram slots are gone, but the ride is the point.
+- **Daylight is short.** Clocks went back Nov 1; sunset in St. Louis is ~4:55 PM on Nov 6–7. Saturday's outdoor stops are morning/afternoon by design.
+- **The Zoo closes at 4 PM in November** — don't leave Forest Park for last.
+- **Tolls:** I-55 to Springfield/St. Louis has no tolls on the mainline run south of the Chicago area, but getting to Lombard / onto I-55 may cross I-294 / I-355 tolls — the rental's TollPass is optional; your own I-PASS works if you bring the transponder and add the rental plate for the rental dates (that's what the October dispute was about — add it *before* you drive).
+- Carry the passport book in the car Friday — the Lincoln Home stamp is on the drive down, not in St. Louis.
+
+## Packing checklist {#packing-checklist}
+
+- [ ] Passport To Your National Parks Collector's Edition book (+ loose stamp paper backup)
+- [ ] Driver's license + payment card in renter's name for Enterprise pickup
+- [ ] I-PASS transponder (and add the rental plate to the account for Nov 6–8)
+- [ ] Arch tram ticket confirmations (phone screenshots)
+- [ ] Layers for Saturday — Arch grounds and Forest Park are exposed; Saturday temps from the forecast above
+- [ ] Comfortable closed shoes for City Museum (climbing/slides)
+- [ ] Phone charger / car charger for the two 5-hour drive days
+- [ ] Snacks + water for Friday — dinner isn't until ~7 PM in St. Louis
