@@ -28,6 +28,7 @@ Three NPS passport stamps in one weekend: Lincoln Home, Gateway Arch, and Ulysse
 - [Day 1 — Fri Nov 6: Lombard → Lincoln Home → St. Louis](#day-1)
 - [Day 2 — Sat Nov 7: Grant, Old Courthouse, Arch & City Museum](#day-2)
 - [Day 3 — Sun Nov 8: late breakfast, noon departure](#day-3)
+- [Where to eat — vegetarian picks](#where-to-eat)
 - [NPS park stores on this route](#nps-stores)
 - [Stamp checklist](#stamp-checklist)
 - [Know before you go](#know-before-you-go)
@@ -144,6 +145,7 @@ Every stop on one map: 🔵 **Day 1** (Fri, drive down + Springfield + Union Sta
   - **[St. Louis Wheel](https://www.google.com/maps/search/?api=1&query=The+St+Louis+Wheel)** — 200-ft, climate-controlled gondolas, **10 AM–10 PM**, from ~$19
   - **Fire & Light Show** on the lake outside, after dark, free
   - Dinner on site (Train Shed, Soda Fountain, Landry's) — dinner and Union Station are one stop
+  - **Veg alternative:** [Govinda's](https://www.google.com/maps/search/?api=1&query=Govindas+Vegetarian+Vegan+Restaurant+3926+Lindell+Blvd+St+Louis) on Lindell Blvd serves its dinner thali **6:30–8:30 PM** — the ~7 PM arrival just makes it, if a sit-down vegetarian dinner beats Union Station food (see Where to eat)
   - The **St. Louis Aquarium (9 AM–7 PM)** is *not* a Friday stop — you arrive as it closes. See the Saturday swap note below.
 
 ## Day 2 — Sat Nov 7: Grant, Old Courthouse, Arch & City Museum {#day-2}
@@ -156,6 +158,7 @@ Every stop on one map: 🔵 **Day 1** (Fri, drive down + Springfield + Union Sta
   - [Missouri Botanical Garden](https://www.google.com/maps/search/?api=1&query=Missouri+Botanical+Garden+4344+Shaw+Blvd+St+Louis) — **9 AM–5 PM**, last entry 4:30, $16 adults: Climatron + Japanese Garden sprint only.
   - The **Saint Louis Zoo is off the weekend entirely** on this plan — it closes **4 PM** in November, there's no window after an afternoon Arch, and Sunday leaves at noon.
   - Or skip Forest Park and take the **St. Louis Aquarium at Union Station** (9 AM–7 PM, ~$25–30 adults, ~1.5–2 hrs) — the one afternoon option open late enough to do properly.
+- **Dinner — vegetarian options before the evening:** [Gokul](https://www.google.com/maps/search/?api=1&query=Gokul+Indian+Restaurant+6101+Delmar+Blvd+St+Louis) in the Delmar Loop (dinner from 4:00 PM, ~10 mins from Forest Park) is the natural pairing with a Forest Park afternoon; [Bombay Food Junkies](https://www.google.com/maps/search/?api=1&query=Bombay+Food+Junkies+12955+Olive+Blvd+Creve+Coeur) out in Creve Coeur (til 8:30 PM) is the deliberate-trip option; Govinda's dinner thali (6:30–8:30 PM) works too. Details in Where to eat below.
 - **Evening — [City Museum](https://www.google.com/maps/search/?api=1&query=City+Museum+750+N+16th+St+St+Louis)** (750 N. 16th St). Open late on Saturdays — the after-dinner slot. Climbing, tunnels and a 10-story slide in a former shoe factory; wear shoes you can move in. Only ~0.7 mi from Union Station, so it also pairs with a sunset Wheel ride if Friday ran late.
 
 ## Day 3 — Sun Nov 8: late breakfast, noon departure {#day-3}
@@ -167,6 +170,14 @@ Every stop on one map: 🔵 **Day 1** (Fri, drive down + Springfield + Union Sta
 - **12:00 PM — Leave St. Louis.** ~288 mi / ~4 hrs 51 mins nonstop, realistically ~5–5.5 hrs with one fuel stop → **Lombard ~5:00–5:30 PM**.
 - **~5:00–5:30 PM — Return: Enterprise, Lombard — AFTER-HOURS DROP.** The branch is closed Sundays; Enterprise's Lombard page lists after-hours returns as available — still true even though you're hours early against the assumed 9 PM return. Park in the return area, keys in the drop box per the branch instructions, and **photo-document the drop**: dash photo of odometer + fuel gauge, exterior walk-around video, the parked car in its spot, and the drop-box moment. Keep the fuel receipt. The car stays your responsibility until staff check it in Monday morning — that documentation is your proof of condition and time.
 - **What noon costs:** Forest Park. There's no Sunday-morning Zoo / Art Museum / Botanical Garden on this version — their only window is Saturday's short late-afternoon version (see Day 2), and the Zoo (closes 4 PM) doesn't fit anywhere.
+
+## Where to eat — vegetarian picks {#where-to-eat}
+
+Three St. Louis vegetarian restaurants, added as options (nothing reserved). All three are fully vegetarian or vegan, so the whole menu is in play:
+
+- **[Gokul Indian Restaurant](https://www.google.com/maps/search/?api=1&query=Gokul+Indian+Restaurant+6101+Delmar+Blvd+St+Louis)** — 6101 Delmar Blvd, Delmar Loop · (314) 721-1888 · 4.5★. St. Louis's only **100% vegetarian (and kosher)** restaurant — buffet at lunch and dinner, plus chaat, paneer dishes, dosas/idli and Indo-Chinese. **Fri & Sat: 11:30 AM–2:30 PM and 4:00–8:30 PM** (closed Tuesdays). **Best slot: Saturday dinner** — it's ~10 mins from Forest Park, so it pairs with the late-afternoon Art Museum / Botanical Garden window before City Museum. It also works as a Saturday lunch only if the Arch moves — its 11:30–2:30 lunch window collides with the 1:00 PM tram.
+- **[Govinda's Vegetarian & Vegan Restaurant](https://www.google.com/maps/search/?api=1&query=Govindas+Vegetarian+Vegan+Restaurant+3926+Lindell+Blvd+St+Louis)** — 3926 Lindell Blvd, Midtown · (314) 666-4234. The ISKCON temple's restaurant: a simple, homestyle **thali** (the menu rotates daily — dal, sabzi, rice, poori), ~10 mins west of downtown. **Tue–Sun, short windows only: lunch 11:30 AM–1:30 PM, dinner 6:30–8:30 PM** (closed Mondays). **Best slots: Friday dinner** — the 6:30–8:30 PM window just fits the ~7 PM arrival, as the sit-down alternative to Union Station — **or Saturday dinner** before City Museum. The windows are tight, so don't wing the timing.
+- **[Bombay Food Junkies](https://www.google.com/maps/search/?api=1&query=Bombay+Food+Junkies+12955+Olive+Blvd+Creve+Coeur)** — 12955 Olive Blvd, Creve Coeur · (314) 685-7181 · 4.4★. **100% vegan** Indian street food and fusion — chaat, chik'n sandwiches and bowls, naan pizzas, Oatly soft-serve shakes. **Mon–Sat 11:30 AM–8:30 PM, closed Sundays.** **Best slot: Saturday dinner** as a deliberate ~25-min drive west (it's the farthest of the three); it can't be a Sunday stop, and Friday's late arrival makes it a stretch.
 
 ## NPS park stores on this route {#nps-stores}
 

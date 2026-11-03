@@ -31,13 +31,14 @@ The Old Courthouse (Dred Scott site, part of Gateway Arch National Park) also ha
 - ⚠️ **Assumed change (Nov 2, not yet booked): Sunday return at 9:00 PM.** Day 3 is built on it. The booking still says noon — it needs modifying before the trip (likely a 3rd day, ~$48.30 + tax/fees, est.). The Lombard branch is closed Sundays, so 9 PM is an after-hours drop (Enterprise's Lombard page lists after-hours returns as available); photo-document the car's condition, odometer and fuel at drop-off.
 - ⏳ **Hotel** — not yet booked (downtown near the Arch / Union Station recommended)
 - ✅ **Gateway Arch tram tickets — BOOKED** Sat Nov 7, 1:00 PM, North Tram: 7 adult tickets, $122.00 total paid (confirmation number kept off this public page)
+- 🍽️ **Eating — options, nothing reserved:** Gokul Indian Restaurant (Delmar Loop, 100% vegetarian + kosher), Govinda's (Midtown ISKCON thali, short lunch/dinner windows), Bombay Food Junkies (Creve Coeur, 100% vegan, closed Sundays) — best slots and hours are in the itinerary's "Where to eat" section
 
 ## What's in this repo
 
 | File | What it is |
 |---|---|
 | `index.md` | The itinerary page (Jekyll): bookings, a live Open-Meteo weather widget for St. Louis with the trip days highlighted, the day-by-day plan, NPS park stores on the route, stamp checklist, know-before-you-go and packing checklist |
-| `map.html` | Full-screen Leaflet / OpenStreetMap map — every stop as a numbered pin, color-coded by day (🔵 Day 1 · 🟠 Day 2 · 🟢 Day 3 · ⚫ rental), with a layer filter and a Google Maps link in each popup. The itinerary page embeds it |
+| `map.html` | Full-screen Leaflet / OpenStreetMap map — every stop as a numbered pin (13 pins, incl. the three vegetarian restaurant options), color-coded by day (🔵 Day 1 · 🟠 Day 2 · 🟢 Day 3), with a layer filter and a Google Maps link in each popup. The itinerary page embeds it |
 | `_config.yml` | Site title, description and the `jekyll-theme-cayman` theme |
 | `README.md` | This file |
 
