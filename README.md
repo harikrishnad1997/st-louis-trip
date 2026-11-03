@@ -30,7 +30,7 @@ The Old Courthouse (Dred Scott site, part of Gateway Arch National Park) also ha
 - ✅ **Rental car** — Enterprise, Lombard (920 E Roosevelt Rd), Fri Nov 6 12:00 PM → Sun Nov 8 12:00 PM, Chrysler Pacifica or similar, unlimited mileage, $106.75 est. total. Confirmation number is kept off this public page.
 - ⚠️ **Assumed change (Nov 2, not yet booked): Sunday return at 9:00 PM.** Day 3 is built on it. The booking still says noon — it needs modifying before the trip (likely a 3rd day, ~$48.30 + tax/fees, est.). The Lombard branch is closed Sundays, so 9 PM is an after-hours drop (Enterprise's Lombard page lists after-hours returns as available); photo-document the car's condition, odometer and fuel at drop-off.
 - ⏳ **Hotel** — not yet booked (downtown near the Arch / Union Station recommended)
-- ⏳ **Gateway Arch tram tickets** — book a timed **Saturday afternoon (~1:00 PM)** slot in advance at gatewayarch.com (Grant NHS is Saturday morning)
+- ✅ **Gateway Arch tram tickets — BOOKED** Sat Nov 7, 1:00 PM, North Tram: 7 adult tickets, $122.00 total paid (confirmation number kept off this public page)
 
 ## What's in this repo
 

@@ -44,10 +44,15 @@ Three NPS passport stamps in one weekend: Lincoln Home, Gateway Arch, and Ulysse
 - Confirmation number is in the email, not on this public page
 - **⚠️ Planning assumption (set Nov 2): Sunday return at 9:00 PM, not noon** — the booking on file still says **12:00 PM**. Two things follow: (1) modify the reservation to a 9 PM return before the trip so the price is quoted up front — returning 9 hours late on a noon booking invites hourly late charges, likely a 3rd day at ~$48.30 + tax/fees (estimate); (2) the Lombard branch is **closed Sundays**, so any Sunday return is an **after-hours drop** — Enterprise's Lombard page lists "After-Hours Returns Available." You're responsible for the car until staff check it in Monday morning, so photo-document everything at drop-off (see Day 3). Day 3's noon departure from St. Louis lands back ~5:00–5:30 PM — comfortably inside the assumed 9 PM return, with hours of buffer.
 
+### 🎟️ Gateway Arch tram — BOOKED
+- **Sat Nov 7, 2026 @ 1:00 PM — North Tram**, Gateway Arch
+- **7 adult tickets** — $17.00 each + $3.00 convenience fee = **$122.00 total, paid** (balance $0)
+- E-tickets — retrieval link is in the confirmation email; confirmation number is in the email, not on this public page
+- Arrive **~12:30 PM**: enter through the Fourth Street / Old Courthouse-facing entrance and allow time for the airport-style security checkpoint. Time at the top is capped at under 10 minutes
+- Parking tip from the confirmation: **Stadium East Garage** (200 S Broadway, two blocks away) is the preferred lot — **$11 for the first five hours**; on a non-event day, validate the garage ticket in the visitor center lobby
+
 ### ⏳ Still open
 - **Hotel in St. Louis — not yet booked.** Downtown near the Arch / Union Station makes Friday night effortless and puts you 20 mins from Saturday's 9 AM Grant NHS start.
-- **Gateway Arch tram tickets** for Sat Nov 7, **afternoon (~1:00 PM slot)** — timed tickets, book in advance at gatewayarch.com (they sell out). Adult from $15, tram experience is 45–60 min. Grant NHS is Saturday morning now, the Arch moved to the afternoon — nothing was booked yet, so nothing to change.
-- Who's going — not yet settled in the plan.
 
 ## Weather in St. Louis — live forecast {#weather}
 
@@ -145,7 +150,7 @@ Every stop on one map: 🔵 **Day 1** (Fri, drive down + Springfield + Union Sta
 
 - **9:00 AM — [Ulysses S. Grant National Historic Site](https://www.google.com/maps/search/?api=1&query=Ulysses+S+Grant+National+Historic+Site+7400+Grant+Rd+St+Louis)** (7400 Grant Rd, ~20 mins southwest of downtown). Free, **9 AM–5 PM** — go at opening now that it's the morning stop. Ranger-led White Haven house tour, film, stable museum — and the **passport stamp in the visitor center**, where the JNPA park store also sells America the Beautiful passes. Done by ~10:30 AM.
 - **~11:00 AM — [Old Courthouse](https://www.google.com/maps/search/?api=1&query=Old+Courthouse+11+N+4th+St+St+Louis)** (11 N. 4th St, downtown, two blocks west of the Arch). Free, **9 AM–5 PM**. Dred Scott case site. Doing it late-morning keeps it safe — it closes at 5 PM, before the Arch visitor center. Its JNPA shop focuses on Dred Scott and St. Louis history. Quick downtown lunch after.
-- **~1:00 PM — [Gateway Arch National Park](https://www.google.com/maps/search/?api=1&query=Gateway+Arch+National+Park+St+Louis) — afternoon.** Book the timed tram ticket for ~1:00 PM in advance, arrive 30 mins ahead. Tram experience 45–60 mins, adult from $15. Visitor Center / Museum **9 AM–6 PM** in fall/winter; the museum underneath is free. **Passport stamp** at the visitor center. **The Arch Store** (JNPA) is in the visitor center, to the right as you exit the museum. Done by ~3:00–3:30 PM, with the museum as buffer if the tram runs late.
+- **1:00 PM — [Gateway Arch National Park](https://www.google.com/maps/search/?api=1&query=Gateway+Arch+National+Park+St+Louis) — tram BOOKED (North Tram, 7 adults).** Arrive **~12:30 PM** — entrance faces Fourth Street and the Old Courthouse, and everyone goes through an airport-style security checkpoint. Time at the top is under 10 minutes; the whole tram experience runs ~45–60 mins. Visitor Center / Museum **9 AM–6 PM** in fall/winter; the museum underneath is free. **Passport stamp** at the visitor center. **The Arch Store** (JNPA) is in the visitor center, to the right as you exit the museum. Done by ~3:00–3:30 PM, with the museum as buffer if the tram runs late.
 - **Late afternoon — this is Forest Park's only window now:** Sunday is a late-breakfast / noon-departure day (see Day 3), so there's no Sunday-morning Forest Park anymore. If Forest Park matters, it's a short version today:
   - [Saint Louis Art Museum](https://www.google.com/maps/search/?api=1&query=Saint+Louis+Art+Museum+1+Fine+Arts+Dr) — free, Sat **10 AM–5 PM**: a ~1 hr highlights visit if you're out of the Arch by 3:30.
   - [Missouri Botanical Garden](https://www.google.com/maps/search/?api=1&query=Missouri+Botanical+Garden+4344+Shaw+Blvd+St+Louis) — **9 AM–5 PM**, last entry 4:30, $16 adults: Climatron + Japanese Garden sprint only.
@@ -189,7 +194,7 @@ Plus the free official brochures (unigrids) at each of the three desks — grab 
 ## Know before you go {#know-before-you-go}
 
 - **Lincoln Home: the Friday stamp sprint is all there is.** The Shimla Peppers lunch pushes Friday's Springfield arrival to ~4:30–4:45 PM against a 5 PM visitor-center close — stamp sprint only, and skip it if you're running past 4:45, because the Sunday Springfield stop has been removed and there is no fallback. The house tour is not on this trip (last Friday tour ~4:00–4:30 PM, first-come tickets gone by then); if the tour matters most of all, the only fix is cutting Friday lunch short or skipping it.
-- **Book the Arch tram now, not that week — for Saturday afternoon (~1 PM).** Timed tickets sell out; the museum and grounds are free if tram slots are gone, but the ride is the point.
+- **Arch tram is booked — Sat 1:00 PM, North Tram, 7 adults ($122 total).** Be at the Fourth Street entrance by ~12:30 PM for the security checkpoint; time at the top is capped at under 10 minutes. Driving in: Stadium East Garage (200 S Broadway) is the preferred lot at $11 for the first five hours — validate the ticket in the visitor center lobby on a non-event day.
 - **Daylight is short.** Clocks went back Nov 1; sunset in St. Louis is ~4:55 PM on Nov 6–7. Grant (morning) is Saturday's main outdoor stop; the Arch grounds work fine in the last light after the tram.
 - **Forest Park is Saturday-short or nothing.** The Arch swap squeezed it out of Saturday afternoon, and Sunday's noon departure removed the Sunday-morning version. The Zoo (closes 4 PM in November) fits nowhere on this plan; the Art Museum (til 5 PM) or Botanical Garden (last entry 4:30) survive only as Saturday short versions.
 - **The 9 PM Sunday return is an assumption, not a booking (yet).** The Enterprise reservation on file still says noon — and note Sunday's noon departure from St. Louis does **not** get the car back by noon; you'd land ~5 PM, 5 hours late on the unmodified booking. Modify it before the trip and get the new total in writing (likely a 3rd day, ~$48.30 + tax/fees, estimate).
@@ -201,7 +206,7 @@ Plus the free official brochures (unigrids) at each of the three desks — grab 
 - [ ] Passport To Your National Parks Collector's Edition book (+ loose stamp paper backup)
 - [ ] Driver's license + payment card in renter's name for Enterprise pickup
 - [ ] I-PASS transponder (and add the rental plate to the account for Nov 6–8)
-- [ ] Arch tram ticket confirmations (phone screenshots)
+- [ ] Arch tram e-tickets — save the retrieval link / screenshots from the confirmation email (one order, 7 guests)
 - [ ] Layers for Saturday — Arch grounds and Forest Park are exposed; Saturday temps from the forecast above
 - [ ] Comfortable closed shoes for City Museum (climbing/slides)
 - [ ] Phone charger / car charger for the two 5-hour drive days
