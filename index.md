@@ -121,7 +121,7 @@ Backup: the [National Weather Service forecast for St. Louis](https://forecast.w
 
 ## Trip map — color-coded by day {#trip-map}
 
-Every stop on one map: 🔵 **Day 1** (Fri, drive down + Springfield + Union Station) · 🟠 **Day 2** (Sat, St. Louis) · 🟢 **Day 3** (Sun, Forest Park + drive home). Pins are numbered in visit order — tap a pin for the stop and a Google Maps link. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone. Note the map shows the St. Louis / Springfield stops in detail; the I-55 drive itself is a straight shot between them.
+Every stop on one map: 🔵 **Day 1** (Fri, drive down + Springfield + Union Station) · 🟠 **Day 2** (Sat, St. Louis) · 🟢 **Day 3** (Sun, late breakfast + drive home). Pins are numbered in visit order — tap a pin for the stop and a Google Maps link. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone. Note the map shows the St. Louis / Springfield stops in detail; the I-55 drive itself is a straight shot between them.
 
 <iframe src="map.html" width="100%" style="border:1px solid #ccc; border-radius:8px; height:82vh; min-height:620px;" loading="lazy" title="St. Louis weekend map — stops color-coded by day"></iframe>
 
