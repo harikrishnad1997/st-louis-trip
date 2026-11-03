@@ -27,7 +27,7 @@ Three NPS passport stamps in one weekend: Lincoln Home, Gateway Arch, and Ulysse
 - [Trip map — color-coded by day](#trip-map)
 - [Day 1 — Fri Nov 6: Lombard → Lincoln Home → St. Louis](#day-1)
 - [Day 2 — Sat Nov 7: Grant, Old Courthouse, Arch & City Museum](#day-2)
-- [Day 3 — Sun Nov 8: drive home](#day-3)
+- [Day 3 — Sun Nov 8: Forest Park, then drive home](#day-3)
 - [NPS park stores on this route](#nps-stores)
 - [Stamp checklist](#stamp-checklist)
 - [Know before you go](#know-before-you-go)
@@ -42,6 +42,7 @@ Three NPS passport stamps in one weekend: Lincoln Home, Gateway Arch, and Ulysse
 - Chrysler Pacifica or similar, automatic, unlimited mileage, 9 additional drivers included
 - **$106.75 estimated total** (2 days @ $48.30 + taxes/fees)
 - Confirmation number is in the email, not on this public page
+- **⚠️ Planning assumption (set Nov 2): Sunday return at 9:00 PM, not noon** — Day 3 below is built on it. The booking on file still says **12:00 PM**. Two things follow: (1) modify the reservation to a 9 PM return before the trip so the price is quoted up front — returning 9 hours late on a noon booking invites hourly late charges, likely a 3rd day at ~$48.30 + tax/fees (estimate); (2) the Lombard branch is **closed Sundays**, so a 9 PM return is an **after-hours drop** — Enterprise's Lombard page lists "After-Hours Returns Available." You're responsible for the car until staff check it in Monday morning, so photo-document everything at drop-off (see Day 3).
 
 ### ⏳ Still open
 - **Hotel in St. Louis — not yet booked.** Downtown near the Arch / Union Station makes Friday night effortless and puts you 20 mins from Saturday's 9 AM Grant NHS start.
@@ -143,18 +144,21 @@ Every stop on one map: 🔵 **Day 1** (Fri, drive down + Springfield + Union Sta
 - **9:00 AM — [Ulysses S. Grant National Historic Site](https://www.google.com/maps/search/?api=1&query=Ulysses+S+Grant+National+Historic+Site+7400+Grant+Rd+St+Louis)** (7400 Grant Rd, ~20 mins southwest of downtown). Free, **9 AM–5 PM** — go at opening now that it's the morning stop. Ranger-led White Haven house tour, film, stable museum — and the **passport stamp in the visitor center**, where the JNPA park store also sells America the Beautiful passes. Done by ~10:30 AM.
 - **~11:00 AM — [Old Courthouse](https://www.google.com/maps/search/?api=1&query=Old+Courthouse+11+N+4th+St+St+Louis)** (11 N. 4th St, downtown, two blocks west of the Arch). Free, **9 AM–5 PM**. Dred Scott case site. Doing it late-morning keeps it safe — it closes at 5 PM, before the Arch visitor center. Its JNPA shop focuses on Dred Scott and St. Louis history. Quick downtown lunch after.
 - **~1:00 PM — [Gateway Arch National Park](https://www.google.com/maps/search/?api=1&query=Gateway+Arch+National+Park+St+Louis) — afternoon.** Book the timed tram ticket for ~1:00 PM in advance, arrive 30 mins ahead. Tram experience 45–60 mins, adult from $15. Visitor Center / Museum **9 AM–6 PM** in fall/winter; the museum underneath is free. **Passport stamp** at the visitor center. **The Arch Store** (JNPA) is in the visitor center, to the right as you exit the museum. Done by ~3:00–3:30 PM, with the museum as buffer if the tram runs late.
-- **Late afternoon — squeezed, pick at most ONE short version:** Moving the Arch to the afternoon costs the old afternoon slot.
-  - [Saint Louis Art Museum](https://www.google.com/maps/search/?api=1&query=Saint+Louis+Art+Museum+1+Fine+Arts+Dr) (Forest Park) — free, Sat **10 AM–5 PM**: a ~1 hr highlights visit if you're out of the Arch by 3:30.
-  - [Missouri Botanical Garden](https://www.google.com/maps/search/?api=1&query=Missouri+Botanical+Garden+4344+Shaw+Blvd+St+Louis) — **9 AM–5 PM**, last entry 4:30, $16 adults / children 12 and under free: Climatron + Japanese Garden sprint only.
-  - The **Saint Louis Zoo drops out** on this order — it's free but closes **4 PM** in November, so there's no real window after the Arch.
-  - *Aquarium swap:* the St. Louis Aquarium at Union Station (9 AM–7 PM, ~$25–30 adults) still fits here instead — it's the one afternoon option open late enough.
+- **Late afternoon — light on purpose:** Moving the Arch to the afternoon costs the old Forest Park slot, but Sunday's 9 PM return (see Day 3) gives Forest Park back in full tomorrow morning — so don't sprint it today.
+  - The one stop that still fits properly: the **St. Louis Aquarium at Union Station** (9 AM–7 PM, ~$25–30 adults, ~1.5–2 hrs), if you want a fourth big stop today.
+  - Otherwise: rest, an early dinner, and save the Zoo / Art Museum / Botanical Garden for Sunday. (Short versions exist — Art Museum til 5 PM, Botanical Garden last entry 4:30 — but they'd be re-dos of what Sunday now does better.)
 - **Evening — [City Museum](https://www.google.com/maps/search/?api=1&query=City+Museum+750+N+16th+St+St+Louis)** (750 N. 16th St). Open late on Saturdays — the after-dinner slot. Climbing, tunnels and a 10-story slide in a former shoe factory; wear shoes you can move in. Only ~0.7 mi from Union Station, so it also pairs with a sunset Wheel ride if Friday ran late.
 
-## Day 3 — Sun Nov 8: drive home {#day-3}
+## Day 3 — Sun Nov 8: Forest Park, then drive home {#day-3}
 
-- **No sightseeing.** With a noon return in Lombard, the drive home is the day.
-- **Leave St. Louis by 6:30 AM at the latest** — 6:00 AM for buffer. ~5 hrs + a fuel stop lands in Lombard ~11:45 AM with no slack.
-- **12:00 PM — Return: Enterprise, Lombard.** Refuel before return; keep the fuel receipt.
+*Built on the assumed 9:00 PM Lombard return (see Bookings — the reservation still says noon until it's modified). This is the change that gives the weekend its Sunday back: no 6:30 AM departure.*
+
+- **Morning — pack the car and check out first**, so the afternoon is a straight drive with no hotel backtrack.
+- **9:00 AM–12:00 PM — [Saint Louis Zoo](https://www.google.com/maps/search/?api=1&query=Saint+Louis+Zoo+1+Government+Dr+St+Louis)** (Forest Park). Free admission, **9 AM–4 PM** in November. The stop Saturday's Arch swap squeezed out is back — as a full, unhurried morning instead of a rushed hour.
+- **12:15–1:45 PM — [Saint Louis Art Museum](https://www.google.com/maps/search/?api=1&query=Saint+Louis+Art+Museum+1+Fine+Arts+Dr+St+Louis)** (also Forest Park, minutes from the Zoo). Free, **Sun 10 AM–5 PM**. Lunch in the park or on the way out.
+- **Alternative morning (instead of Zoo + Art Museum):** [Missouri Botanical Garden](https://www.google.com/maps/search/?api=1&query=Missouri+Botanical+Garden+4344+Shaw+Blvd+St+Louis), 9:30 AM–12:30 PM for a full visit (**9 AM–5 PM**, $16 adults) — or the St. Louis Aquarium (Union Station) Sunday morning if it never happened Saturday.
+- **3:30 PM — Leave St. Louis. Hard deadline** (4:00 PM is the drop-dead). ~5–5.5 hrs with one fuel stop lands at Lombard ~9:00 PM. Springfield is a pass-through, not a stop: you'd reach it ~5:00–5:30 PM, right at/after the Lincoln Home Visitor Center's 5 PM close.
+- **9:00 PM — Return: Enterprise, Lombard — AFTER-HOURS DROP.** The branch is closed Sundays; Enterprise's Lombard page lists after-hours returns as available. Park in the return area, lock the keys in the drop box per the branch instructions, and **photo-document the drop**: dash photo of odometer + fuel gauge, exterior walk-around video, the parked car in its spot, and the drop-box moment. Keep the fuel receipt. The car stays your responsibility until staff check it in Monday morning — that documentation is your proof of condition and time.
 
 ## NPS park stores on this route {#nps-stores}
 
@@ -181,10 +185,11 @@ Plus the free official brochures (unigrids) at each of the three desks — grab 
 
 ## Know before you go {#know-before-you-go}
 
-- **Lincoln Home is the tight link.** Noon pickup in Lombard → Springfield ~3:30 PM → last house tour ~4:00–4:30 PM with first-come tickets that can run out. If the interior tour becomes a must-do, the only real fix is an earlier departure — there is no Sunday version of this stop (Springfield at ~8 AM on the way home is before the 9 AM opening, and the tour + 3 hr drive would blow the noon Lombard return).
+- **Lincoln Home is the tight link.** Noon pickup in Lombard → Springfield ~3:30 PM → last house tour ~4:00–4:30 PM with first-come tickets that can run out. If the interior tour becomes a must-do, the only real fix is an earlier Friday departure — there is still no Sunday version of this stop: even with the 9 PM return, the drive home passes Springfield ~5:00–5:30 PM, at/after the Visitor Center's 5 PM close.
 - **Book the Arch tram now, not that week — for Saturday afternoon (~1 PM).** Timed tickets sell out; the museum and grounds are free if tram slots are gone, but the ride is the point.
 - **Daylight is short.** Clocks went back Nov 1; sunset in St. Louis is ~4:55 PM on Nov 6–7. Grant (morning) is Saturday's main outdoor stop; the Arch grounds work fine in the last light after the tram.
-- **The Zoo effectively drops out on the new order** — it closes at 4 PM in November and there's no real window after an afternoon Arch. The Art Museum (til 5 PM) or the Botanical Garden (last entry 4:30) are the only Forest Park-area options left, as short visits.
+- **Forest Park moved to Sunday, it didn't drop.** Saturday's Arch swap squeezed the Zoo (closes 4 PM) out of Saturday — the assumed 9 PM Sunday return puts the Zoo + Art Museum back as Sunday morning's full plan, with the Botanical Garden as the alternative. See Day 3.
+- **The 9 PM Sunday return is an assumption, not a booking (yet).** The Enterprise reservation on file still says noon. If it isn't modified, Sunday's plan collapses back to a 6:30 AM departure — modify it before the trip and get the new total in writing (likely a 3rd day, ~$48.30 + tax/fees, estimate).
 - **Tolls:** I-55 to Springfield/St. Louis has no tolls on the mainline run south of the Chicago area, but getting to Lombard / onto I-55 may cross I-294 / I-355 tolls — the rental's TollPass is optional; your own I-PASS works if you bring the transponder and add the rental plate for the rental dates (that's what the October dispute was about — add it *before* you drive).
 - Carry the passport book in the car Friday — the Lincoln Home stamp is on the drive down, not in St. Louis.
 

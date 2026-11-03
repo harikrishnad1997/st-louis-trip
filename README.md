@@ -12,8 +12,8 @@ A weekend road-trip itinerary from the Chicago suburbs to St. Louis — with a N
 | Day | Plan |
 |---|---|
 | **Fri Nov 6** | 12:00 PM Enterprise pickup in Lombard → I-55 south → **Lincoln Home National Historic Site**, Springfield (~3:30 PM; stamp + visitor center, house tour first-come) → St. Louis by ~6:30–7:00 PM → **Union Station** evening: Grand Hall light show (hourly 5–10 PM), the St. Louis Wheel, dinner on site |
-| **Sat Nov 7** | **Ulysses S. Grant National Historic Site** 9:00 AM → Old Courthouse ~11:00 AM → **Gateway Arch** in the afternoon (~1:00 PM timed tram ticket) + museum → late-afternoon short option only (Art Museum til 5 PM, Botanical Garden last entry 4:30, or the Aquarium til 7 PM; the Zoo closes 4 PM and drops out) → **City Museum** in the evening |
-| **Sun Nov 8** | Leave St. Louis by 6:30 AM → 12:00 PM rental return in Lombard. No sightseeing — the drive is the day |
+| **Sat Nov 7** | **Ulysses S. Grant National Historic Site** 9:00 AM → Old Courthouse ~11:00 AM → **Gateway Arch** in the afternoon (~1:00 PM timed tram ticket) + museum → late afternoon light (Aquarium til 7 PM if wanted; Forest Park saved for Sunday) → **City Museum** in the evening |
+| **Sun Nov 8** | Forest Park morning: **Saint Louis Zoo** 9:00 AM–12:00 PM (free) + **Saint Louis Art Museum** ~12:15–1:45 PM (free) — or a full Missouri Botanical Garden morning instead → **leave St. Louis by 3:30 PM** → **9:00 PM rental return in Lombard** (assumed — see below) |
 
 ## Passport stamps
 
@@ -28,6 +28,7 @@ The Old Courthouse (Dred Scott site, part of Gateway Arch National Park) also ha
 ## Bookings
 
 - ✅ **Rental car** — Enterprise, Lombard (920 E Roosevelt Rd), Fri Nov 6 12:00 PM → Sun Nov 8 12:00 PM, Chrysler Pacifica or similar, unlimited mileage, $106.75 est. total. Confirmation number is kept off this public page.
+- ⚠️ **Assumed change (Nov 2, not yet booked): Sunday return at 9:00 PM.** Day 3 is built on it. The booking still says noon — it needs modifying before the trip (likely a 3rd day, ~$48.30 + tax/fees, est.). The Lombard branch is closed Sundays, so 9 PM is an after-hours drop (Enterprise's Lombard page lists after-hours returns as available); photo-document the car's condition, odometer and fuel at drop-off.
 - ⏳ **Hotel** — not yet booked (downtown near the Arch / Union Station recommended)
 - ⏳ **Gateway Arch tram tickets** — book a timed **Saturday afternoon (~1:00 PM)** slot in advance at gatewayarch.com (Grant NHS is Saturday morning)
 

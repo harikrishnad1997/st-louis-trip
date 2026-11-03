@@ -30,7 +30,7 @@ var COLORS = { day1: "#1d6fb8", day2: "#e07b00", day3: "#1e8e3e", rental: "#3741
 var DAYLABEL = { day1: "Day 1 · Fri Nov 6", day2: "Day 2 · Sat Nov 7", day3: "Day 3 · Sun Nov 8", rental: "Rental car — pickup / return" };
 var STOPS = [
   // Rental
-  { n: "Enterprise Rent-A-Car — Lombard", d: "rental", t: "Pickup Fri 12:00 PM · Return Sun 12:00 PM · 920 E Roosevelt Rd", lat: 41.86102, lng: -87.99384, q: "Enterprise+Rent-A-Car+920+E+Roosevelt+Rd+Lombard+IL" },
+  { n: "Enterprise Rent-A-Car — Lombard", d: "rental", t: "Pickup Fri 12:00 PM · Return assumed Sun 9:00 PM (after-hours drop — branch closed Sundays; booking on file still says 12:00 PM) · 920 E Roosevelt Rd", lat: 41.86102, lng: -87.99384, q: "Enterprise+Rent-A-Car+920+E+Roosevelt+Rd+Lombard+IL" },
   // Day 1
   { n: "1 · Lincoln Home National Historic Site — Springfield (stamp + Eastern National store)", d: "day1", t: "~3:30 PM · Visitor Center 9 AM–5 PM · house-tour tickets first-come, last tour ~4:00–4:30 PM", lat: 39.79724, lng: -89.64496, q: "Lincoln+Home+National+Historic+Site+Springfield+IL" },
   { n: "2 · St. Louis Union Station", d: "day1", t: "~7:00 PM · Grand Hall light show hourly 5–10 PM · Wheel 10 AM–10 PM · dinner on site", lat: 38.62709, lng: -90.20907, q: "St+Louis+Union+Station+1820+Market+St" },
@@ -40,10 +40,12 @@ var STOPS = [
   { n: "1 · Ulysses S. Grant National Historic Site (stamp + JNPA store)", d: "day2", t: "9:00 AM · free · 9 AM–5 PM · 7400 Grant Rd", lat: 38.55026, lng: -90.35191, q: "Ulysses+S+Grant+National+Historic+Site+St+Louis" },
   { n: "2 · Old Courthouse (Dred Scott site + JNPA shop)", d: "day2", t: "~11:00 AM · free · 9 AM–5 PM", lat: 38.62569, lng: -90.18923, q: "Old+Courthouse+11+N+4th+St+St+Louis" },
   { n: "3 · Gateway Arch National Park (stamp + The Arch Store)", d: "day2", t: "~1:00 PM · afternoon tram ticket in advance · Visitor Center 9 AM–6 PM", lat: 38.62485, lng: -90.18597, q: "Gateway+Arch+National+Park+St+Louis" },
-  { n: "4 · Saint Louis Art Museum (late-afternoon short option)", d: "day2", t: "Only if out of the Arch by ~3:30 · free · Sat 10 AM–5 PM", lat: 38.63920, lng: -90.29458, q: "Saint+Louis+Art+Museum+St+Louis" },
-  { n: "5 · Missouri Botanical Garden (late-afternoon short option)", d: "day2", t: "Last entry 4:30 PM · 9 AM–5 PM · $16 adults", lat: 38.61671, lng: -90.25693, q: "Missouri+Botanical+Garden+St+Louis" },
-  { n: "6 · Saint Louis Zoo (drops out on this order — closes 4 PM)", d: "day2", t: "Free · 9 AM–4 PM in November · no real window after an afternoon Arch", lat: 38.63624, lng: -90.29199, q: "Saint+Louis+Zoo+St+Louis" },
-  { n: "7 · City Museum", d: "day2", t: "Evening · open late Sat · 750 N 16th St", lat: 38.63357, lng: -90.20076, q: "City+Museum+750+N+16th+St+St+Louis" }
+  { n: "4 · City Museum", d: "day2", t: "Evening · open late Sat · 750 N 16th St", lat: 38.63357, lng: -90.20076, q: "City+Museum+750+N+16th+St+St+Louis" },
+  // Day 3 (assumes the 9:00 PM Lombard return)
+  { n: "1 · Saint Louis Zoo", d: "day3", t: "Sun 9:00 AM–12:00 PM · free · 9 AM–4 PM in November · the stop Saturday squeezed out, back in full", lat: 38.63624, lng: -90.29199, q: "Saint+Louis+Zoo+St+Louis" },
+  { n: "2 · Saint Louis Art Museum", d: "day3", t: "Sun ~12:15–1:45 PM · free · Sun 10 AM–5 PM · Forest Park, minutes from the Zoo", lat: 38.63920, lng: -90.29458, q: "Saint+Louis+Art+Museum+St+Louis" },
+  { n: "3 · Missouri Botanical Garden (alternative morning — instead of Zoo + Art Museum)", d: "day3", t: "Sun 9:30 AM–12:30 PM full visit · 9 AM–5 PM · $16 adults", lat: 38.61671, lng: -90.25693, q: "Missouri+Botanical+Garden+St+Louis" },
+  { n: "4 · Leave St. Louis by 3:30 PM (hard deadline)", d: "day3", t: "~5–5.5 hrs with a fuel stop → Lombard ~9:00 PM after-hours drop · Springfield is a pass-through (Lincoln Home VC closes 5 PM)", lat: 38.62709, lng: -90.20907, q: "St+Louis+Union+Station" }
 ];
 var map = L.map("map");
 L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 19, attribution: "&copy; OpenStreetMap contributors" }).addTo(map);
