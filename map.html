@@ -26,11 +26,9 @@
 <div id="map"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-var COLORS = { day1: "#1d6fb8", day2: "#e07b00", day3: "#1e8e3e", rental: "#374151" };
-var DAYLABEL = { day1: "Day 1 · Fri Nov 6", day2: "Day 2 · Sat Nov 7", day3: "Day 3 · Sun Nov 8", rental: "Rental car — pickup / return" };
+var COLORS = { day1: "#1d6fb8", day2: "#e07b00", day3: "#1e8e3e" };
+var DAYLABEL = { day1: "Day 1 · Fri Nov 6", day2: "Day 2 · Sat Nov 7", day3: "Day 3 · Sun Nov 8" };
 var STOPS = [
-  // Rental
-  { n: "Enterprise Rent-A-Car — Lombard", d: "rental", t: "Pickup Fri 12:00 PM · Return assumed Sun 9:00 PM (after-hours drop — branch closed Sundays; booking on file still says 12:00 PM) · 920 E Roosevelt Rd", lat: 41.86102, lng: -87.99384, q: "Enterprise+Rent-A-Car+920+E+Roosevelt+Rd+Lombard+IL" },
   // Day 1
   { n: "1 · Lincoln Home National Historic Site — Springfield (stamp + Eastern National store)", d: "day1", t: "~3:30 PM · Visitor Center 9 AM–5 PM · house-tour tickets first-come, last tour ~4:00–4:30 PM", lat: 39.79724, lng: -89.64496, q: "Lincoln+Home+National+Historic+Site+Springfield+IL" },
   { n: "2 · St. Louis Union Station", d: "day1", t: "~7:00 PM · Grand Hall light show hourly 5–10 PM · Wheel 10 AM–10 PM · dinner on site", lat: 38.62709, lng: -90.20907, q: "St+Louis+Union+Station+1820+Market+St" },
