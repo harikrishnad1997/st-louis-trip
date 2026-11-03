@@ -39,11 +39,9 @@ var STOPS = [
   { n: "2 · Old Courthouse (Dred Scott site + JNPA shop)", d: "day2", t: "~11:00 AM · free · 9 AM–5 PM", lat: 38.62569, lng: -90.18923, q: "Old+Courthouse+11+N+4th+St+St+Louis" },
   { n: "3 · Gateway Arch National Park (stamp + The Arch Store)", d: "day2", t: "~1:00 PM · afternoon tram ticket in advance · Visitor Center 9 AM–6 PM", lat: 38.62485, lng: -90.18597, q: "Gateway+Arch+National+Park+St+Louis" },
   { n: "4 · City Museum", d: "day2", t: "Evening · open late Sat · 750 N 16th St", lat: 38.63357, lng: -90.20076, q: "City+Museum+750+N+16th+St+St+Louis" },
-  // Day 3 (assumes the 9:00 PM Lombard return)
-  { n: "1 · Saint Louis Zoo", d: "day3", t: "Sun 9:00 AM–12:00 PM · free · 9 AM–4 PM in November · the stop Saturday squeezed out, back in full", lat: 38.63624, lng: -90.29199, q: "Saint+Louis+Zoo+St+Louis" },
-  { n: "2 · Saint Louis Art Museum", d: "day3", t: "Sun ~12:15–1:45 PM · free · Sun 10 AM–5 PM · Forest Park, minutes from the Zoo", lat: 38.63920, lng: -90.29458, q: "Saint+Louis+Art+Museum+St+Louis" },
-  { n: "3 · Missouri Botanical Garden (alternative morning — instead of Zoo + Art Museum)", d: "day3", t: "Sun 9:30 AM–12:30 PM full visit · 9 AM–5 PM · $16 adults", lat: 38.61671, lng: -90.25693, q: "Missouri+Botanical+Garden+St+Louis" },
-  { n: "4 · Leave St. Louis by 3:30 PM (hard deadline)", d: "day3", t: "~5–5.5 hrs with a fuel stop → Lombard ~9:00 PM after-hours drop · Springfield is a pass-through (Lincoln Home VC closes 5 PM)", lat: 38.62709, lng: -90.20907, q: "St+Louis+Union+Station" }
+  // Day 3 (late breakfast, noon departure; assumes the 9:00 PM Lombard return)
+  { n: "1 · Late breakfast + noon departure — St. Louis", d: "day3", t: "Sun ~10:30 AM late breakfast · pack + check out before · leave 12:00 PM · Lombard ~5:00–5:30 PM (after-hours drop)", lat: 38.62709, lng: -90.20907, q: "St+Louis+Union+Station" },
+  { n: "2 · Lincoln Home — optional Sunday second chance (Springfield)", d: "day3", t: "Pass Springfield ~1:35 PM · VC open Sun til 5 PM · retry the house tour if Friday's tickets ran out · leave by 2:30 PM → Lombard ~5:45–6:00 PM", lat: 39.79724, lng: -89.64496, q: "Lincoln+Home+National+Historic+Site+Springfield+IL" }
 ];
 var map = L.map("map");
 L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 19, attribution: "&copy; OpenStreetMap contributors" }).addTo(map);
