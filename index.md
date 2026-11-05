@@ -3,7 +3,7 @@ layout: default
 title: St. Louis Weekend — Road Trip Itinerary, Nov 6–8, 2026
 ---
 
-# St. Louis Weekend
+# St. Louis Weekend {#top}
 
 **Road-trip itinerary · Fri Nov 6 – Sun Nov 8, 2026 · Elmhurst / Lombard → Springfield → St. Louis**
 Three NPS passport stamps in one weekend: Lincoln Home, Gateway Arch, and Ulysses S. Grant.
@@ -230,17 +230,6 @@ Plus the free official brochures (unigrids) at each of the three desks — grab 
 - [ ] Phone charger / car charger for the two 5-hour drive days
 - [ ] Snacks + water for the car — Friday lunch is covered (Shimla Peppers), dinner isn't until ~7:15 PM in St. Louis
 
-<p style="text-align:center; margin-top:24px;"><a href="#contents">↑ Back to top</a></p>
+[↑ Back to top](#top)
 
-<style>
-#toTopBtn { position: fixed; right: 16px; bottom: 16px; z-index: 9999; background: #7a3b12; color: #fff; border: none; border-radius: 999px; padding: 10px 16px; font-size: 14px; font-weight: 600; cursor: pointer; box-shadow: 0 2px 6px rgba(0,0,0,.35); display: none; }
-#toTopBtn:hover { background: #5f2d0d; }
-</style>
-<button id="toTopBtn" type="button" aria-label="Back to top">↑ Top</button>
-<script>
-(function () {
-  var b = document.getElementById("toTopBtn");
-  window.addEventListener("scroll", function () { b.style.display = window.scrollY > 600 ? "block" : "none"; }, { passive: true });
-  b.addEventListener("click", function () { window.scrollTo({ top: 0, behavior: "smooth" }); });
-})();
-</script>
+<a href="#top" title="Back to top" style="position:fixed; right:16px; bottom:16px; z-index:99; background:#1d6fb8; color:#fff; padding:10px 16px; border-radius:24px; text-decoration:none; font-size:14px; font-weight:600; box-shadow:0 2px 6px rgba(0,0,0,.3);">↑ Top</a>
