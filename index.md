@@ -45,15 +45,21 @@ Three NPS passport stamps in one weekend: Lincoln Home, Gateway Arch, and Ulysse
 - Confirmation number is in the email, not on this public page
 - **⚠️ Planning assumption (set Nov 2): Sunday return at 9:00 PM, not noon** — the booking on file still says **12:00 PM**. Two things follow: (1) modify the reservation to a 9 PM return before the trip so the price is quoted up front — returning 9 hours late on a noon booking invites hourly late charges, likely a 3rd day at ~$48.30 + tax/fees (estimate); (2) the Lombard branch is **closed Sundays**, so any Sunday return is an **after-hours drop** — Enterprise's Lombard page lists "After-Hours Returns Available." You're responsible for the car until staff check it in Monday morning, so photo-document everything at drop-off (see Day 3). Day 3's noon departure from St. Louis lands back ~5:00–5:30 PM — comfortably inside the assumed 9 PM return, with hours of buffer.
 
+### 🏨 Hotel — BOOKED: Quality Inn Saint Louis Airport
+10232 Natural Bridge Rd, Saint Louis, MO 63134 · (314) 427-5955 · by Lambert Airport, ~20 mins NW of downtown
+- Check-in **Fri Nov 6, 2026 after 3:00 PM** — the ~7 PM arrival is fine, but if check-in slips past **9:00 PM, call the hotel** or the reservation may be released
+- Check-out **Sun Nov 8, 2026 by 11:00 AM**
+- **2 rooms × 2 nights**, each room max 4 guests, booked via **Priceline** in **Krishnan Venkatesan's name** (he booked it and forwarded the confirmation on Nov 4) — confirmation numbers are in that email, not on this public page
+- **Breakfast included**, free WiFi, on-site parking (charges may apply), prepaid through Priceline
+- Cancellation: fully refundable until **Fri Nov 6, 3:59 PM**; non-refundable after Fri 11:59 PM
+- Location note: it's an airport hotel, not downtown — budget ~20 mins each way to Union Station / the Arch and ~25 mins to Grant NHS on Saturday morning
+
 ### 🎟️ Gateway Arch tram — BOOKED
 - **Sat Nov 7, 2026 @ 1:00 PM — North Tram**, Gateway Arch
 - **7 adult tickets** — $17.00 each + $3.00 convenience fee = **$122.00 total, paid** (balance $0)
 - E-tickets — retrieval link is in the confirmation email; confirmation number is in the email, not on this public page
 - Arrive **~12:30 PM**: enter through the Fourth Street / Old Courthouse-facing entrance and allow time for the airport-style security checkpoint. Time at the top is capped at under 10 minutes
 - Parking tip from the confirmation: **Stadium East Garage** (200 S Broadway, two blocks away) is the preferred lot — **$11 for the first five hours**; on a non-event day, validate the garage ticket in the visitor center lobby
-
-### ⏳ Still open
-- **Hotel in St. Louis — not yet booked.** Downtown near the Arch / Union Station makes Friday night effortless and puts you 20 mins from Saturday's 9 AM Grant NHS start.
 
 ## Weather in St. Louis — live forecast {#weather}
 
@@ -127,7 +133,7 @@ Backup: the [National Weather Service forecast for St. Louis](https://forecast.w
 
 ## Trip map — color-coded by day {#trip-map}
 
-Every stop on one map: 🔵 **Day 1** (Fri, drive down + Springfield + Union Station) · 🟠 **Day 2** (Sat, St. Louis) · 🟢 **Day 3** (Sun, late breakfast + drive home). Pins are numbered in visit order — tap a pin for the stop and a Google Maps link. The restaurants are pinned too: Shimla Peppers (Fri lunch), Govinda's (Fri dinner option), and Gokul + Bombay Food Junkies (Sat dinner options) — 13 pins in all. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone. Note the map shows the St. Louis / Springfield stops in detail; the I-55 drive itself is a straight shot between them.
+Every stop on one map: 🔵 **Day 1** (Fri, drive down + Springfield + Union Station) · 🟠 **Day 2** (Sat, St. Louis) · 🟢 **Day 3** (Sun, late breakfast + drive home). Pins are numbered in visit order — tap a pin for the stop and a Google Maps link. The restaurants are pinned too: Shimla Peppers (Fri lunch), Govinda's (Fri dinner option), and Gokul + Bombay Food Junkies (Sat dinner options), plus the Quality Inn hotel by the airport (Day 1 pin 7) — 14 pins in all. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone. Note the map shows the St. Louis / Springfield stops in detail; the I-55 drive itself is a straight shot between them.
 
 <iframe src="map.html" width="100%" style="border:1px solid #ccc; border-radius:8px; height:82vh; min-height:620px;" loading="lazy" title="St. Louis weekend map — stops color-coded by day"></iframe>
 
@@ -140,7 +146,7 @@ Every stop on one map: 🔵 **Day 1** (Fri, drive down + Springfield + Union Sta
 - **~1:30 PM — On the road:** Brookdale Rd → I-88 east → I-355 south → I-55 south. Naperville → Springfield is ~190 mi / ~2 hrs 55 mins (estimate).
 - **~4:30–4:45 PM — [Lincoln Home National Historic Site, Springfield](https://www.google.com/maps/search/?api=1&query=Lincoln+Home+National+Historic+Site+Springfield+IL) — SPRINT, stamp only** (426 S. 7th St). Visitor Center closes **5:00 PM**, so this is now a 15–30 min stop: **passport stamp + a quick look at the Eastern National bookstore**, nothing more. The house tour is *not* on this trip at all — the last tour starts ~4:00–4:30 PM, its free tickets are first-come, in-person only, so they'd be gone before you arrive, and the Sunday Springfield stop has been removed, so Friday is Lincoln Home's only slot and it's stamp-only. If traffic pushes Springfield past ~4:45 PM, **skip it entirely** — there is no second chance later in the weekend, so Lincoln Home (stamp included) drops off the trip. Don't chase a closing visitor center.
 - **~5:00 PM — Leave Springfield** (if you stopped). Springfield → St. Louis is ~96 mi / ~1 hr 35 mins. Sunset is ~4:55 PM, so this leg is after dark.
-- **~6:45–7:15 PM — Arrive St. Louis, check in, then [St. Louis Union Station](https://www.google.com/maps/search/?api=1&query=St+Louis+Union+Station+1820+Market+St)** (1820 Market St). The one downtown spot still fully alive in the evening:
+- **~6:45–7:15 PM — Arrive St. Louis.** The hotel (Quality Inn, by the airport) is ~20 mins NW of downtown — check in on the way in or after the evening downtown, but if it'll be past **9:00 PM, call (314) 427-5955** first so the rooms aren't released. Then **[St. Louis Union Station](https://www.google.com/maps/search/?api=1&query=St+Louis+Union+Station+1820+Market+St)** (1820 Market St). The one downtown spot still fully alive in the evening:
   - **Grand Hall** — free 3D light show on the 65-ft ceiling, **on the hour 5–10 PM daily**
   - **[St. Louis Wheel](https://www.google.com/maps/search/?api=1&query=The+St+Louis+Wheel)** — 200-ft, climate-controlled gondolas, **10 AM–10 PM**, from ~$19
   - **Fire & Light Show** on the lake outside, after dark, free
@@ -150,7 +156,7 @@ Every stop on one map: 🔵 **Day 1** (Fri, drive down + Springfield + Union Sta
 
 ## Day 2 — Sat Nov 7: Grant, Old Courthouse, Arch & City Museum {#day-2}
 
-- **9:00 AM — [Ulysses S. Grant National Historic Site](https://www.google.com/maps/search/?api=1&query=Ulysses+S+Grant+National+Historic+Site+7400+Grant+Rd+St+Louis)** (7400 Grant Rd, ~20 mins southwest of downtown). Free, **9 AM–5 PM** — go at opening now that it's the morning stop. Ranger-led White Haven house tour, film, stable museum — and the **passport stamp in the visitor center**, where the JNPA park store also sells America the Beautiful passes. Done by ~10:30 AM.
+- **9:00 AM — [Ulysses S. Grant National Historic Site](https://www.google.com/maps/search/?api=1&query=Ulysses+S+Grant+National+Historic+Site+7400+Grant+Rd+St+Louis)** (7400 Grant Rd, ~25 mins south of the hotel — leave ~8:30 AM). Free, **9 AM–5 PM** — go at opening now that it's the morning stop. Ranger-led White Haven house tour, film, stable museum — and the **passport stamp in the visitor center**, where the JNPA park store also sells America the Beautiful passes. Done by ~10:30 AM.
 - **~11:00 AM — [Old Courthouse](https://www.google.com/maps/search/?api=1&query=Old+Courthouse+11+N+4th+St+St+Louis)** (11 N. 4th St, downtown, two blocks west of the Arch). Free, **9 AM–5 PM**. Dred Scott case site. Doing it late-morning keeps it safe — it closes at 5 PM, before the Arch visitor center. Its JNPA shop focuses on Dred Scott and St. Louis history. Quick downtown lunch after.
 - **1:00 PM — [Gateway Arch National Park](https://www.google.com/maps/search/?api=1&query=Gateway+Arch+National+Park+St+Louis) — tram BOOKED (North Tram, 7 adults).** Arrive **~12:30 PM** — entrance faces Fourth Street and the Old Courthouse, and everyone goes through an airport-style security checkpoint. Time at the top is under 10 minutes; the whole tram experience runs ~45–60 mins. Visitor Center / Museum **9 AM–6 PM** in fall/winter; the museum underneath is free. **Passport stamp** at the visitor center. **The Arch Store** (JNPA) is in the visitor center, to the right as you exit the museum. Done by ~3:00–3:30 PM, with the museum as buffer if the tram runs late.
 - **Late afternoon — this is Forest Park's only window now:** Sunday is a late-breakfast / noon-departure day (see Day 3), so there's no Sunday-morning Forest Park anymore. If Forest Park matters, it's a short version today:
@@ -165,8 +171,8 @@ Every stop on one map: 🔵 **Day 1** (Fri, drive down + Springfield + Union Sta
 
 *A slow Sunday by design: late breakfast, on the road at noon, home with hours to spare before the assumed 9:00 PM return.*
 
-- **Sleep in. Pack the car and check out before breakfast**, so noon is a clean departure with no hotel backtrack.
-- **~10:30 AM — Late breakfast** (hotel / downtown / Union Station area). Nothing is scheduled against it — that's the point of the day.
+- **Sleep in — but hotel check-out is 11:00 AM.** Pack the car first so it's a clean exit with no backtrack.
+- **~10:30 AM — Late breakfast** — breakfast is included at the Quality Inn, so eat there before the 11 AM check-out (or downtown after). Nothing is scheduled against it — that's the point of the day.
 - **12:00 PM — Leave St. Louis.** ~288 mi / ~4 hrs 51 mins nonstop, realistically ~5–5.5 hrs with one fuel stop → **Lombard ~5:00–5:30 PM**.
 - **~5:00–5:30 PM — Return: Enterprise, Lombard — AFTER-HOURS DROP.** The branch is closed Sundays; Enterprise's Lombard page lists after-hours returns as available — still true even though you're hours early against the assumed 9 PM return. Park in the return area, keys in the drop box per the branch instructions, and **photo-document the drop**: dash photo of odometer + fuel gauge, exterior walk-around video, the parked car in its spot, and the drop-box moment. Keep the fuel receipt. The car stays your responsibility until staff check it in Monday morning — that documentation is your proof of condition and time.
 - **What noon costs:** Forest Park. There's no Sunday-morning Zoo / Art Museum / Botanical Garden on this version — their only window is Saturday's short late-afternoon version (see Day 2), and the Zoo (closes 4 PM) doesn't fit anywhere.
@@ -205,6 +211,7 @@ Plus the free official brochures (unigrids) at each of the three desks — grab 
 ## Know before you go {#know-before-you-go}
 
 - **Lincoln Home: the Friday stamp sprint is all there is.** The Shimla Peppers lunch pushes Friday's Springfield arrival to ~4:30–4:45 PM against a 5 PM visitor-center close — stamp sprint only, and skip it if you're running past 4:45, because the Sunday Springfield stop has been removed and there is no fallback. The house tour is not on this trip (last Friday tour ~4:00–4:30 PM, first-come tickets gone by then); if the tour matters most of all, the only fix is cutting Friday lunch short or skipping it.
+- **The hotel is by the airport, not downtown.** Quality Inn, 10232 Natural Bridge Rd — ~20 mins to Union Station / the Arch and ~25 mins to Grant NHS, so Saturday's 9 AM Grant start means leaving the hotel ~8:30 AM. Friday check-in after 3 PM; if Friday's check-in will be past 9 PM, call (314) 427-5955 so the rooms aren't released. Sunday check-out is 11:00 AM and breakfast is included. The rooms are in Krishnan Venkatesan's name — carry his forwarded Priceline confirmation email for check-in.
 - **Arch tram is booked — Sat 1:00 PM, North Tram, 7 adults ($122 total).** Be at the Fourth Street entrance by ~12:30 PM for the security checkpoint; time at the top is capped at under 10 minutes. Driving in: Stadium East Garage (200 S Broadway) is the preferred lot at $11 for the first five hours — validate the ticket in the visitor center lobby on a non-event day.
 - **Daylight is short.** Clocks went back Nov 1; sunset in St. Louis is ~4:55 PM on Nov 6–7. Grant (morning) is Saturday's main outdoor stop; the Arch grounds work fine in the last light after the tram.
 - **Forest Park is Saturday-short or nothing.** The Arch swap squeezed it out of Saturday afternoon, and Sunday's noon departure removed the Sunday-morning version. The Zoo (closes 4 PM in November) fits nowhere on this plan; the Art Museum (til 5 PM) or Botanical Garden (last entry 4:30) survive only as Saturday short versions.

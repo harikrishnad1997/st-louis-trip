@@ -29,7 +29,7 @@ The Old Courthouse (Dred Scott site, part of Gateway Arch National Park) also ha
 
 - ✅ **Rental car** — Enterprise, Lombard (920 E Roosevelt Rd), Fri Nov 6 12:00 PM → Sun Nov 8 12:00 PM, Chrysler Pacifica or similar, unlimited mileage, $106.75 est. total. Confirmation number is kept off this public page.
 - ⚠️ **Assumed change (Nov 2, not yet booked): Sunday return at 9:00 PM.** Day 3 is built on it. The booking still says noon — it needs modifying before the trip (likely a 3rd day, ~$48.30 + tax/fees, est.). The Lombard branch is closed Sundays, so 9 PM is an after-hours drop (Enterprise's Lombard page lists after-hours returns as available); photo-document the car's condition, odometer and fuel at drop-off.
-- ⏳ **Hotel** — not yet booked (downtown near the Arch / Union Station recommended)
+- ✅ **Hotel — BOOKED**: Quality Inn Saint Louis Airport (10232 Natural Bridge Rd), Fri Nov 6 → Sun Nov 8, 2 rooms × 2 nights, breakfast included, check-in after 3:00 PM / check-out by 11:00 AM, booked via Priceline in Krishnan Venkatesan's name (confirmation numbers kept off this public page). By Lambert Airport, ~20 mins NW of downtown.
 - ✅ **Gateway Arch tram tickets — BOOKED** Sat Nov 7, 1:00 PM, North Tram: 7 adult tickets, $122.00 total paid (confirmation number kept off this public page)
 - 🍽️ **Eating — options, nothing reserved:** Gokul Indian Restaurant (Delmar Loop, 100% vegetarian + kosher), Govinda's (Midtown ISKCON thali, short lunch/dinner windows), Bombay Food Junkies (Creve Coeur, 100% vegan, closed Sundays) — best slots and hours are in the itinerary's "Where to eat" section
 
@@ -38,7 +38,7 @@ The Old Courthouse (Dred Scott site, part of Gateway Arch National Park) also ha
 | File | What it is |
 |---|---|
 | `index.md` | The itinerary page (Jekyll): bookings, a live Open-Meteo weather widget for St. Louis with the trip days highlighted, the day-by-day plan, NPS park stores on the route, stamp checklist, know-before-you-go and packing checklist |
-| `map.html` | Full-screen Leaflet / OpenStreetMap map — every stop as a numbered pin (13 pins, incl. the three vegetarian restaurant options), color-coded by day (🔵 Day 1 · 🟠 Day 2 · 🟢 Day 3), with a layer filter and a Google Maps link in each popup. The itinerary page embeds it |
+| `map.html` | Full-screen Leaflet / OpenStreetMap map — every stop as a numbered pin (14 pins, incl. the three vegetarian restaurant options and the hotel), color-coded by day (🔵 Day 1 · 🟠 Day 2 · 🟢 Day 3), with a layer filter and a Google Maps link in each popup. The itinerary page embeds it |
 | `_config.yml` | Site title, description and the `jekyll-theme-cayman` theme |
 | `README.md` | This file |
 
