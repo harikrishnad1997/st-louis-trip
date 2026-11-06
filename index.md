@@ -139,8 +139,6 @@ Every stop on one map: 🔵 **Day 1** (Fri, drive down + Union Station) · 🟠 
 
 ## Day 1 — Fri Nov 6: Lombard → St. Louis {#day-1}
 
-<figure class="trip-fig"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Lincoln%20Home%20NHS%20at%20Sunset.jpg?width=1280" alt="Lincoln Home National Historic Site, Springfield — the only home Lincoln ever owned." loading="lazy"><figcaption>Lincoln Home National Historic Site, Springfield — the only home Lincoln ever owned.</figcaption></figure>
-
 - **12:00 PM — Pickup: [Enterprise, Lombard](https://www.google.com/maps/search/?api=1&query=Enterprise+Rent-A-Car+920+E+Roosevelt+Rd+Lombard+IL).** Short hop west first — lunch is before the highway, not on it.
 - **~12:30–1:30 PM — Lunch: [Shimla Peppers, Naperville](https://www.google.com/maps/search/?api=1&query=Shimla+Peppers+1904+Brookdale+Rd+Naperville+IL)** (1904 Brookdale Rd, Ste 156, ~20–25 mins from Enterprise). Pure-veg North Indian — paneer tikka masala, bhindi masala, Amritsari kulcha, North Indian thali. Friday lunch hours **12:00–3:00 PM**; (331) 226-2992. Keep it to the hour — out by 1:30 for the drive south.
 - **~1:30 PM — On the road:** Brookdale Rd → I-88 east → I-355 south → I-55 south. Naperville → Springfield is ~190 mi / ~2 hrs 55 mins (estimate).
@@ -161,7 +159,7 @@ Every stop on one map: 🔵 **Day 1** (Fri, drive down + Union Station) · 🟠 
 - **Late afternoon — this is Forest Park's only window now:** Sunday starts early for the drive home via Lincoln Home (see Day 3), so there's no Sunday-morning Forest Park. If Forest Park matters, it's a short version today:
   - [Saint Louis Art Museum](https://www.google.com/maps/search/?api=1&query=Saint+Louis+Art+Museum+1+Fine+Arts+Dr) — free, Sat **10 AM–5 PM**: a ~1 hr highlights visit if you're out of the Arch by 3:30.
   - [Missouri Botanical Garden](https://www.google.com/maps/search/?api=1&query=Missouri+Botanical+Garden+4344+Shaw+Blvd+St+Louis) — **9 AM–5 PM**, last entry 4:30, $16 adults: Climatron + Japanese Garden sprint only.
-  - The **Saint Louis Zoo is off the weekend entirely** on this plan — it closes **4 PM** in November, there's no window after an afternoon Arch, and Sunday leaves at noon.
+  - The **Saint Louis Zoo is off the weekend entirely** on this plan — it closes **4 PM** in November, there's no window after an afternoon Arch, and Sunday leaves early.
   - Or skip Forest Park and take the **St. Louis Aquarium at Union Station** (9 AM–7 PM, ~$25–30 adults, ~1.5–2 hrs) — the one afternoon option open late enough to do properly.
 - **Dinner — vegetarian options before the evening:** [Gokul](https://www.google.com/maps/search/?api=1&query=Gokul+Indian+Restaurant+6101+Delmar+Blvd+St+Louis) in the Delmar Loop (dinner from 4:00 PM, ~10 mins from Forest Park) is the natural pairing with a Forest Park afternoon; [Bombay Food Junkies](https://www.google.com/maps/search/?api=1&query=Bombay+Food+Junkies+12955+Olive+Blvd+Creve+Coeur) out in Creve Coeur (til 8:30 PM) is the deliberate-trip option; Govinda's dinner thali (6:30–8:30 PM) works too. Details in Where to eat below.
 - **Evening — [City Museum](https://www.google.com/maps/search/?api=1&query=City+Museum+750+N+16th+St+St+Louis)** (750 N. 16th St). Open late on Saturdays — the after-dinner slot. Climbing, tunnels and a 10-story slide in a former shoe factory; wear shoes you can move in. Only ~0.7 mi from Union Station, so it also pairs with a sunset Wheel ride if Friday ran late.
@@ -169,6 +167,8 @@ Every stop on one map: 🔵 **Day 1** (Fri, drive down + Union Station) · 🟠 
 ## Day 3 — Sun Nov 8: Lincoln Home, then home {#day-3}
 
 *Lincoln Home moved here from Friday (changed Nov 6): a proper Sunday-morning visit instead of Friday's closing-time sprint — then a straight drive home, in well before the assumed 9:00 PM return.*
+
+<figure class="trip-fig"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Lincoln%20Home%20NHS%20at%20Sunset.jpg?width=1280" alt="Lincoln Home National Historic Site, Springfield — the only home Lincoln ever owned." loading="lazy"><figcaption>Lincoln Home National Historic Site, Springfield — the only home Lincoln ever owned.</figcaption></figure>
 
 - **~7:00 AM — Breakfast at the hotel** (included at the Quality Inn), pack the car and check out — today starts early, not late. (Hotel check-out is 11:00 AM, but you're gone long before it.)
 - **~7:45 AM — Leave St. Louis.** Springfield is ~96 mi / ~1 hr 35 mins north on I-55.
@@ -228,7 +228,7 @@ Plus the free official brochures (unigrids) at each of the three desks — grab 
 - [ ] Layers for Saturday — Arch grounds and Forest Park are exposed; Saturday temps from the forecast above
 - [ ] Comfortable closed shoes for City Museum (climbing/slides)
 - [ ] Phone charger / car charger for the two 5-hour drive days
-- [ ] Snacks + water for the car — Friday lunch is covered (Shimla Peppers), dinner isn't until ~7:15 PM in St. Louis
+- [ ] Snacks + water for the car — Friday lunch is covered (Shimla Peppers), dinner isn't until ~7 PM in St. Louis
 
 [↑ Back to top](#top)
 
