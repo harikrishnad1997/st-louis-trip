@@ -11,15 +11,15 @@ A weekend road-trip itinerary from the Chicago suburbs to St. Louis — with a N
 
 | Day | Plan |
 |---|---|
-| **Fri Nov 6** | 12:00 PM Enterprise pickup in Lombard → **lunch at Shimla Peppers, Naperville** (~12:30–1:30 PM, pure-veg North Indian, 1904 Brookdale Rd) → I-88 / I-355 / I-55 south → **Lincoln Home National Historic Site**, Springfield (~4:30–4:45 PM — a stamp sprint before the 5 PM close; the house tour is not on this trip) → St. Louis by ~6:45–7:15 PM → **Union Station** evening: Grand Hall light show (hourly 5–10 PM), the St. Louis Wheel, dinner on site |
+| **Fri Nov 6** | 12:00 PM Enterprise pickup in Lombard → **lunch at Shimla Peppers, Naperville** (~12:30–1:30 PM, pure-veg North Indian, 1904 Brookdale Rd) → I-88 / I-355 / I-55 south, through Springfield with no stop (Lincoln Home moved to Sunday morning) → St. Louis by ~6:15–6:45 PM → **Union Station** evening: Grand Hall light show (hourly 5–10 PM), the St. Louis Wheel, dinner on site |
 | **Sat Nov 7** | **Ulysses S. Grant National Historic Site** 9:00 AM → Old Courthouse ~11:00 AM → **Gateway Arch** in the afternoon (~1:00 PM timed tram ticket) + museum → late afternoon: short Art Museum (til 5 PM) / Botanical Garden (last entry 4:30) or the Aquarium (til 7 PM) — Forest Park's only window; the Zoo (closes 4 PM) fits nowhere → **City Museum** in the evening |
-| **Sun Nov 8** | Late breakfast (~10:30 AM), pack + check out first → **leave St. Louis at 12:00 PM** → straight drive home (no Springfield stop) → **Lombard ~5:00–5:30 PM**, after-hours rental drop, well inside the assumed 9:00 PM return |
+| **Sun Nov 8** | Breakfast at the hotel, pack + check out → **leave St. Louis ~7:45 AM** → **Lincoln Home National Historic Site**, Springfield ~9:20 AM (stamp + first-come house tour) → leave ~10:45–11:00 AM → **Lombard ~2:00–2:45 PM**, after-hours rental drop, well inside the assumed 9:00 PM return |
 
 ## Passport stamps
 
 Three NPS stamps in one weekend — and all three sites have a park store:
 
-- [ ] **Lincoln Home National Historic Site** — Visitor Center, Springfield (Eastern National bookstore)
+- [ ] **Lincoln Home National Historic Site** — Visitor Center, Springfield (Eastern National bookstore) — Sun morning
 - [ ] **Ulysses S. Grant National Historic Site** — Visitor Center, 7400 Grant Rd (JNPA store) — Sat morning
 - [ ] **Gateway Arch National Park** — Arch Visitor Center (The Arch Store, run by Jefferson National Parks Association) — Sat afternoon
 
