@@ -6,7 +6,7 @@ title: St. Louis Weekend — Road Trip Itinerary, Nov 6–8, 2026
 # St. Louis Weekend {#top}
 
 **Road-trip itinerary · Fri Nov 6 – Sun Nov 8, 2026 · Elmhurst / Lombard → Springfield → St. Louis**
-Three NPS passport stamps in one weekend: Lincoln Home, Gateway Arch, and Ulysses S. Grant.
+Four passport stamps in one weekend: Lincoln Home, Gateway Arch, Ulysses S. Grant, and the Lewis & Clark National Historic Trail at Camp Dubois.
 
 <style>
 .trip-fig { margin: 14px 0; }
@@ -27,7 +27,7 @@ Three NPS passport stamps in one weekend: Lincoln Home, Gateway Arch, and Ulysse
 - [Trip map — color-coded by day](#trip-map)
 - [Day 1 — Fri Nov 6: Lombard → St. Louis](#day-1)
 - [Day 2 — Sat Nov 7: Grant, Old Courthouse, Arch & City Museum](#day-2)
-- [Day 3 — Sun Nov 8: Lincoln Home, then home](#day-3)
+- [Day 3 — Sun Nov 8: Camp Dubois + Lincoln Home, then home](#day-3)
 - [Where to eat — vegetarian picks](#where-to-eat)
 - [NPS park stores on this route](#nps-stores)
 - [Stamp checklist](#stamp-checklist)
@@ -43,7 +43,7 @@ Three NPS passport stamps in one weekend: Lincoln Home, Gateway Arch, and Ulysse
 - Chrysler Pacifica or similar, automatic, unlimited mileage, 9 additional drivers included
 - **$106.75 estimated total** (2 days @ $48.30 + taxes/fees)
 - Confirmation number is in the email, not on this public page
-- **⚠️ Planning assumption (set Nov 2): Sunday return at 9:00 PM, not noon** — the booking on file still says **12:00 PM**. Two things follow: (1) modify the reservation to a 9 PM return before the trip so the price is quoted up front — returning 9 hours late on a noon booking invites hourly late charges, likely a 3rd day at ~$48.30 + tax/fees (estimate); (2) the Lombard branch is **closed Sundays**, so any Sunday return is an **after-hours drop** — Enterprise's Lombard page lists "After-Hours Returns Available." You're responsible for the car until staff check it in Monday morning, so photo-document everything at drop-off (see Day 3). Day 3's drive home, with the Sunday-morning Lincoln Home stop, lands back ~2:00–2:45 PM — comfortably inside the assumed 9 PM return, with hours of buffer.
+- **⚠️ Planning assumption (set Nov 2): Sunday return at 9:00 PM, not noon** — the booking on file still says **12:00 PM**. Two things follow: (1) modify the reservation to a 9 PM return before the trip so the price is quoted up front — returning 9 hours late on a noon booking invites hourly late charges, likely a 3rd day at ~$48.30 + tax/fees (estimate); (2) the Lombard branch is **closed Sundays**, so any Sunday return is an **after-hours drop** — Enterprise's Lombard page lists "After-Hours Returns Available." You're responsible for the car until staff check it in Monday morning, so photo-document everything at drop-off (see Day 3). Day 3's drive home, with the Sunday-morning Camp Dubois and Lincoln Home stops, lands back ~4:00–4:30 PM — comfortably inside the assumed 9 PM return, with hours of buffer.
 
 ### 🏨 Hotel — BOOKED: Quality Inn Saint Louis Airport
 [Quality Inn Saint Louis Airport on Google Maps](https://www.google.com/maps/search/?api=1&query=Quality+Inn+Saint+Louis+Airport+10232+Natural+Bridge+Rd) — 10232 Natural Bridge Rd, Saint Louis, MO 63134 · (314) 427-5955 · by Lambert Airport, ~20 mins NW of downtown. It's also on the trip map below (Day 1 pin 6; the same spot is Day 3 pin 1 for Sunday's departure), and the pin's popup has its own Google Maps link.
@@ -133,7 +133,7 @@ Backup: the [National Weather Service forecast for St. Louis](https://forecast.w
 
 ## Trip map — color-coded by day {#trip-map}
 
-Every stop on one map: 🔵 **Day 1** (Fri, drive down + Union Station) · 🟠 **Day 2** (Sat, St. Louis) · 🟢 **Day 3** (Sun, Lincoln Home + drive home). Pins are numbered in visit order — tap a pin for the stop and a Google Maps link. The restaurants are pinned too: Shimla Peppers (Fri lunch), Govinda's (Fri dinner option), and Gokul + Bombay Food Junkies (Sat dinner options), plus the Quality Inn hotel by the airport (Day 1 pin 6), Enterprise Lombard (Day 1 pin 7), and Lincoln Home on Sunday morning (Day 3 pin 2) — 15 pins in all. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone. Note the map shows the St. Louis / Springfield stops in detail; the I-55 drive itself is a straight shot between them.
+Every stop on one map: 🔵 **Day 1** (Fri, drive down + Union Station) · 🟠 **Day 2** (Sat, St. Louis) · 🟢 **Day 3** (Sun, Lincoln Home + drive home). Pins are numbered in visit order — tap a pin for the stop and a Google Maps link. The restaurants are pinned too: Shimla Peppers (Fri lunch), Govinda's (Fri dinner option), and Gokul + Bombay Food Junkies (Sat dinner options), plus the Quality Inn hotel by the airport (Day 1 pin 6), Enterprise Lombard (Day 1 pin 7), Camp Dubois (Day 3 pin 2), and Lincoln Home on Sunday (Day 3 pin 3) — 16 pins in all. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone. Note the map shows the St. Louis / Springfield stops in detail; the I-55 drive itself is a straight shot between them.
 
 <iframe src="map.html" width="100%" style="border:1px solid #ccc; border-radius:8px; height:82vh; min-height:620px;" loading="lazy" title="St. Louis weekend map — stops color-coded by day"></iframe>
 
@@ -156,7 +156,7 @@ Every stop on one map: 🔵 **Day 1** (Fri, drive down + Union Station) · 🟠 
 - **9:00 AM — [Ulysses S. Grant National Historic Site](https://www.google.com/maps/search/?api=1&query=Ulysses+S+Grant+National+Historic+Site+7400+Grant+Rd+St+Louis)** (7400 Grant Rd, ~25 mins south of the hotel — leave ~8:30 AM). Free, **9 AM–5 PM** — go at opening now that it's the morning stop. Ranger-led White Haven house tour, film, stable museum — and the **passport stamp in the visitor center**, where the JNPA park store also sells America the Beautiful passes. Done by ~10:30 AM.
 - **~11:00 AM — [Old Courthouse](https://www.google.com/maps/search/?api=1&query=Old+Courthouse+11+N+4th+St+St+Louis)** (11 N. 4th St, downtown, two blocks west of the Arch). Free, **9 AM–5 PM**. Dred Scott case site. Doing it late-morning keeps it safe — it closes at 5 PM, before the Arch visitor center. Its JNPA shop focuses on Dred Scott and St. Louis history. Quick downtown lunch after.
 - **1:00 PM — [Gateway Arch National Park](https://www.google.com/maps/search/?api=1&query=Gateway+Arch+National+Park+St+Louis) — tram BOOKED (North Tram, 7 adults).** Arrive **~12:30 PM** — entrance faces Fourth Street and the Old Courthouse, and everyone goes through an airport-style security checkpoint. Time at the top is under 10 minutes; the whole tram experience runs ~45–60 mins. Visitor Center / Museum **9 AM–6 PM** in fall/winter; the museum underneath is free. **Passport stamp** at the visitor center. **The Arch Store** (JNPA) is in the visitor center, to the right as you exit the museum. Done by ~3:00–3:30 PM, with the museum as buffer if the tram runs late.
-- **Late afternoon — this is Forest Park's only window now:** Sunday starts early for the drive home via Lincoln Home (see Day 3), so there's no Sunday-morning Forest Park. If Forest Park matters, it's a short version today:
+- **Late afternoon — this is Forest Park's only window now:** Sunday is the drive home via Camp Dubois and Lincoln Home (see Day 3), so there's no Sunday-morning Forest Park. If Forest Park matters, it's a short version today:
   - [Saint Louis Art Museum](https://www.google.com/maps/search/?api=1&query=Saint+Louis+Art+Museum+1+Fine+Arts+Dr) — free, Sat **10 AM–5 PM**: a ~1 hr highlights visit if you're out of the Arch by 3:30.
   - [Missouri Botanical Garden](https://www.google.com/maps/search/?api=1&query=Missouri+Botanical+Garden+4344+Shaw+Blvd+St+Louis) — **9 AM–5 PM**, last entry 4:30, $16 adults: Climatron + Japanese Garden sprint only.
   - The **Saint Louis Zoo is off the weekend entirely** on this plan — it closes **4 PM** in November, there's no window after an afternoon Arch, and Sunday leaves early.
@@ -164,18 +164,20 @@ Every stop on one map: 🔵 **Day 1** (Fri, drive down + Union Station) · 🟠 
 - **Dinner — vegetarian options before the evening:** [Gokul](https://www.google.com/maps/search/?api=1&query=Gokul+Indian+Restaurant+6101+Delmar+Blvd+St+Louis) in the Delmar Loop (dinner from 4:00 PM, ~10 mins from Forest Park) is the natural pairing with a Forest Park afternoon; [Bombay Food Junkies](https://www.google.com/maps/search/?api=1&query=Bombay+Food+Junkies+12955+Olive+Blvd+Creve+Coeur) out in Creve Coeur (til 8:30 PM) is the deliberate-trip option; Govinda's dinner thali (6:30–8:30 PM) works too. Details in Where to eat below.
 - **Evening — [City Museum](https://www.google.com/maps/search/?api=1&query=City+Museum+750+N+16th+St+St+Louis)** (750 N. 16th St). Open late on Saturdays — the after-dinner slot. Climbing, tunnels and a 10-story slide in a former shoe factory; wear shoes you can move in. Only ~0.7 mi from Union Station, so it also pairs with a sunset Wheel ride if Friday ran late.
 
-## Day 3 — Sun Nov 8: Lincoln Home, then home {#day-3}
+## Day 3 — Sun Nov 8: Camp Dubois + Lincoln Home, then home {#day-3}
 
-*Lincoln Home moved here from Friday (changed Nov 6): a proper Sunday-morning visit instead of Friday's closing-time sprint — then a straight drive home, in well before the assumed 9:00 PM return.*
+*Lincoln Home moved here from Friday (changed Nov 6), and Camp Dubois was added the same evening for the Lewis & Clark Trail stamp: two Sunday stops on the drive home — then straight to Lombard, still in well before the assumed 9:00 PM return.*
 
 <figure class="trip-fig"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Lincoln%20Home%20NHS%20at%20Sunset.jpg?width=1280" alt="Lincoln Home National Historic Site, Springfield — the only home Lincoln ever owned." loading="lazy"><figcaption>Lincoln Home National Historic Site, Springfield — the only home Lincoln ever owned.</figcaption></figure>
 
-- **~7:00 AM — Breakfast at the hotel** (included at the Quality Inn), pack the car and check out — today starts early, not late. (Hotel check-out is 11:00 AM, but you're gone long before it.)
-- **~7:45 AM — Leave St. Louis.** Springfield is ~96 mi / ~1 hr 35 mins north on I-55.
-- **~9:20 AM — [Lincoln Home National Historic Site, Springfield](https://www.google.com/maps/search/?api=1&query=Lincoln+Home+National+Historic+Site+Springfield+IL)** (426 S. 7th St). Visitor Center opens **9:00 AM** — **passport stamp + the Eastern National bookstore**, and this time the **house tour is back on**: its free tickets are first-come, in-person only, and a Sunday-morning arrival gives you a real shot at them (Friday's last tour would have been gone before you arrived). Budget ~1–1.5 hrs. Street parking $2/hr.
-- **~10:45–11:00 AM — Leave Springfield.** ~195 mi / ~3 hrs to Lombard, plus a fuel stop → **Lombard ~2:00–2:45 PM**.
-- **~2:00–2:45 PM — Return: Enterprise, Lombard — AFTER-HOURS DROP.** The branch is closed Sundays; Enterprise's Lombard page lists after-hours returns as available — and you're hours early against the assumed 9 PM return. Park in the return area, keys in the drop box per the branch instructions, and **photo-document the drop**: dash photo of odometer + fuel gauge, exterior walk-around video, the parked car in its spot, and the drop-box moment. Keep the fuel receipt. The car stays your responsibility until staff check it in Monday morning — that documentation is your proof of condition and time.
-- **What the early start costs:** the lazy Sunday — the late breakfast and noon departure are gone. What it buys: Lincoln Home done properly (stamp + a real chance at the house tour) and home by mid-afternoon. Forest Park still has no Sunday version — its only window is Saturday's short late-afternoon one (see Day 2), and the Zoo (closes 4 PM) doesn't fit anywhere.
+- **~7:00 AM — Breakfast at the hotel** (included at the Quality Inn), pack the car and check out. (Hotel check-out is 11:00 AM, but you're gone long before it.)
+- **~8:30 AM — Leave the hotel for Hartford, IL** (~30 mins NE via I-270 — no earlier start needed: Camp Dubois opens at 9:00 AM).
+- **~9:00 AM — [Lewis and Clark State Historic Site — Camp Dubois, Hartford, IL](https://www.google.com/maps/search/?api=1&query=Lewis+and+Clark+State+Historic+Site+Hartford+IL)** (1 Lewis & Clark Trail · (618) 251-5811). **Open 9 AM–5 PM Sun** (Wed–Sun in November), **free**. This is Camp River Dubois, where the Corps of Discovery wintered in 1803–04 and set out in May 1804 — the expedition's point of departure. **Lewis & Clark National Historic Trail passport stamp** in the interpretive center; also the 55-ft cutaway keelboat replica and the Mississippi–Missouri confluence overlook. Budget ~45–60 mins.
+- **~10:00 AM — Leave Hartford.** ~85 mi / ~1 hr 25 mins up I-55 to Springfield.
+- **~11:30 AM — [Lincoln Home National Historic Site, Springfield](https://www.google.com/maps/search/?api=1&query=Lincoln+Home+National+Historic+Site+Springfield+IL)** (426 S. 7th St). **Passport stamp + the Eastern National bookstore** at the Visitor Center. The free **house tour** tickets are first-come, in-person only, so a late-morning arrival is a longer shot than the original 9:20 AM plan — that's the honest trade-off for adding Camp Dubois — but the stamp is certain. Budget ~1 hr. Street parking $2/hr.
+- **~12:30–12:45 PM — Leave Springfield.** ~195 mi / ~3 hrs to Lombard, plus a fuel stop → **Lombard ~4:00–4:30 PM**.
+- **~4:00–4:30 PM — Return: Enterprise, Lombard — AFTER-HOURS DROP.** The branch is closed Sundays; Enterprise's Lombard page lists after-hours returns as available — and you're still hours early against the assumed 9 PM return. Park in the return area, keys in the drop box per the branch instructions, and **photo-document the drop**: dash photo of odometer + fuel gauge, exterior walk-around video, the parked car in its spot, and the drop-box moment. Keep the fuel receipt. The car stays your responsibility until staff check it in Monday morning — that documentation is your proof of condition and time.
+- **What the day costs:** the lazy Sunday was already gone; adding Camp Dubois moves Lincoln Home to late morning (house tour becomes a maybe, stamp certain) and the Lombard drop to ~4:00–4:30 PM — still ~4.5 hrs inside the assumed 9 PM return. Forest Park still has no Sunday version — its only window is Saturday's short late-afternoon one (see Day 2), and the Zoo (closes 4 PM) doesn't fit anywhere.
 
 ## Where to eat — vegetarian picks {#where-to-eat}
 
@@ -200,24 +202,25 @@ Union Station, City Museum, the Zoo, the Art Museum and the Botanical Garden all
 
 ## Stamp checklist {#stamp-checklist}
 
-Three NPS passport stamps, one per anchor stop:
+Four passport stamps across the weekend:
 
-- [ ] **Lincoln Home National Historic Site** — Visitor Center desk, Springfield (Sun morning)
 - [ ] **Ulysses S. Grant National Historic Site** — Visitor Center, 7400 Grant Rd (Sat morning)
-- [ ] **Gateway Arch National Park** — Arch Visitor Center (Sat afternoon)
+- [ ] **Gateway Arch National Park** — Arch Visitor Center (Sat afternoon). Ask there for the **Lewis & Clark National Historic Trail** stamp too — the Arch is a listed stamp location for the trail
+- [ ] **Lewis & Clark National Historic Trail** — Lewis and Clark State Historic Site (Camp Dubois) interpretive center, Hartford, IL (Sun morning)
+- [ ] **Lincoln Home National Historic Site** — Visitor Center desk, Springfield (Sun late morning)
 
-Plus the free official brochures (unigrids) at each of the three desks — grab them where you stamp.
+Plus the free official brochures (unigrids) at each desk — grab them where you stamp.
 
 ## Know before you go {#know-before-you-go}
 
-- **Lincoln Home is a Sunday-morning stop now (moved Nov 6).** Friday skips Springfield entirely — no more closing-time sprint. Sunday: the visitor center opens 9 AM, you leave St. Louis ~7:45 AM and arrive ~9:20, so the stamp is easy and the free first-come house tour is genuinely possible. Keep the passport book handy Sunday morning — the stamp is on the drive home, not the drive down.
+- **Sunday has two stamp stops now (Lincoln Home moved Nov 6; Camp Dubois added Nov 6).** Friday skips Springfield entirely — no more closing-time sprint. Sunday: breakfast ~7 AM, leave the hotel ~8:30 AM, Camp Dubois (Hartford, IL — Lewis & Clark Trail stamp; opens 9 AM, free) first, then Lincoln Home ~11:30 AM — the stamp is easy, and the free first-come house tour is a longer shot at that hour. Keep the passport book handy Sunday — both stamps are on the drive home, not the drive down.
 - **The hotel is by the airport, not downtown.** Quality Inn, 10232 Natural Bridge Rd — ~20 mins to Union Station / the Arch and ~25 mins to Grant NHS, so Saturday's 9 AM Grant start means leaving the hotel ~8:30 AM. Friday check-in after 3 PM; if Friday's check-in will be past 9 PM, call (314) 427-5955 so the rooms aren't released. Sunday check-out is 11:00 AM and breakfast is included. The rooms are in Krishnan Venkatesan's name — carry his forwarded Priceline confirmation email for check-in.
 - **Arch tram is booked — Sat 1:00 PM, North Tram, 7 adults ($122 total).** Be at the Fourth Street entrance by ~12:30 PM for the security checkpoint; time at the top is capped at under 10 minutes. Driving in: Stadium East Garage (200 S Broadway) is the preferred lot at $11 for the first five hours — validate the ticket in the visitor center lobby on a non-event day.
 - **Daylight is short.** Clocks went back Nov 1; sunset in St. Louis is ~4:55 PM on Nov 6–7. Grant (morning) is Saturday's main outdoor stop; the Arch grounds work fine in the last light after the tram.
 - **Forest Park is Saturday-short or nothing.** The Arch swap squeezed it out of Saturday afternoon, and Sunday's early departure for Lincoln Home rules out a Sunday-morning version. The Zoo (closes 4 PM in November) fits nowhere on this plan; the Art Museum (til 5 PM) or Botanical Garden (last entry 4:30) survive only as Saturday short versions.
 - **The 9 PM Sunday return is an assumption, not a booking (yet).** The Enterprise reservation on file still says noon — and even Sunday's earlier ~2:00–2:45 PM Lombard arrival (with the Lincoln Home stop) is past that unmodified noon return. Modify it before Sunday and get the new total in writing (likely a 3rd day, ~$48.30 + tax/fees, estimate).
 - **Tolls:** I-55 to Springfield/St. Louis has no tolls on the mainline run south of the Chicago area, but getting to Lombard / onto I-55 may cross I-294 / I-355 tolls — the rental's TollPass is optional; your own I-PASS works if you bring the transponder and add the rental plate for the rental dates (that's what the October dispute was about — add it *before* you drive).
-- Carry the passport book in the car Sunday — the Lincoln Home stamp is on the drive home, not in St. Louis.
+- Carry the passport book in the car Sunday — the Camp Dubois and Lincoln Home stamps are on the drive home, not in St. Louis.
 
 ## Packing checklist {#packing-checklist}
 

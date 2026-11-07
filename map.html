@@ -21,7 +21,7 @@
 <body>
 <div id="bar">
   <h1>St. Louis Weekend — Trip Map</h1>
-  <p>Every stop, color-coded by day. Use the layer filter (top right) to show one day at a time. Tap a pin for the stop name and a Google Maps link. Restaurant locations are pinned too: Shimla Peppers (Fri lunch), Govinda's (Fri dinner option), Gokul and Bombay Food Junkies (Sat dinner options). The hotel — Quality Inn by the airport — is Day 1 pin 6, the Enterprise rental in Lombard is Day 1 pin 7, and Lincoln Home is Day 3 pin 2 (Sunday morning).</p>
+  <p>Every stop, color-coded by day. Use the layer filter (top right) to show one day at a time. Tap a pin for the stop name and a Google Maps link. Restaurant locations are pinned too: Shimla Peppers (Fri lunch), Govinda's (Fri dinner option), Gokul and Bombay Food Junkies (Sat dinner options). The hotel — Quality Inn by the airport — is Day 1 pin 6, the Enterprise rental in Lombard is Day 1 pin 7, and Sunday runs Camp Dubois (Day 3 pin 2) then Lincoln Home (Day 3 pin 3).</p>
 </div>
 <div id="map"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -45,8 +45,9 @@ var STOPS = [
   { n: "5 · Gokul Indian Restaurant (Sat dinner option)", d: "day2", t: "6101 Delmar Blvd, Delmar Loop · 100% vegetarian + kosher, buffet · Sat 11:30 AM–2:30 PM & 4:00–8:30 PM · (314) 721-1888", lat: 38.65529, lng: -90.29611, q: "Gokul+Indian+Restaurant+6101+Delmar+Blvd+St+Louis" },
   { n: "6 · Bombay Food Junkies (Sat dinner option)", d: "day2", t: "12955 Olive Blvd, Creve Coeur · 100% vegan Indian street food · Sat 11:30 AM–8:30 PM, closed Sun · (314) 685-7181", lat: 38.68274, lng: -90.47781, q: "Bombay+Food+Junkies+12955+Olive+Blvd+Creve+Coeur" },
   // Day 3 (early start, Lincoln Home in the morning, then home; assumes the 9:00 PM Lombard return)
-  { n: "1 · Hotel check-out + leave St. Louis ~7:45 AM", d: "day3", t: "Breakfast at the Quality Inn (included) ~7:00 AM · pack + check out · I-55 north to Springfield", lat: 38.735174, lng: -90.357631, q: "Quality+Inn+Saint+Louis+Airport+10232+Natural+Bridge+Rd" },
-  { n: "2 · Lincoln Home National Historic Site — Springfield (Sun morning)", d: "day3", t: "~9:20 AM · Visitor Center opens 9 AM · passport stamp + Eastern National store + house tour (free, first-come tickets) · leave ~10:45–11:00 · Lombard ~2:00–2:45 PM (after-hours drop)", lat: 39.79724, lng: -89.64496, q: "Lincoln+Home+National+Historic+Site+Springfield+IL" }
+  { n: "1 · Hotel check-out + leave ~8:30 AM", d: "day3", t: "Breakfast at the Quality Inn (included) ~7:00 AM · pack + check out · I-270 NE to Hartford first (Camp Dubois opens 9 AM), then I-55 north", lat: 38.735174, lng: -90.357631, q: "Quality+Inn+Saint+Louis+Airport+10232+Natural+Bridge+Rd" },
+  { n: "2 · Lewis and Clark State Historic Site — Camp Dubois, Hartford IL (Sun morning)", d: "day3", t: "~9:00 AM · OPENS 9:00 AM (Wed–Sun in Nov) · FREE · Lewis & Clark National Historic Trail passport stamp in the interpretive center · Camp River Dubois — where the Corps of Discovery wintered 1803–04 and set out · 1 Lewis & Clark Trail · (618) 251-5811 · leave ~10:00 AM", lat: 38.802368, lng: -90.102001, q: "Lewis+and+Clark+State+Historic+Site+Hartford+IL" },
+  { n: "3 · Lincoln Home National Historic Site — Springfield (Sun late morning)", d: "day3", t: "~11:30 AM · passport stamp + Eastern National store + house tour (free, first-come — a longer shot this late) · leave ~12:30–12:45 · Lombard ~4:00–4:30 PM (after-hours drop)", lat: 39.79724, lng: -89.64496, q: "Lincoln+Home+National+Historic+Site+Springfield+IL" }
 ];
 var map = L.map("map");
 L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 19, attribution: "&copy; OpenStreetMap contributors" }).addTo(map);

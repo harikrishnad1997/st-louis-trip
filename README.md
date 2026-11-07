@@ -13,13 +13,14 @@ A weekend road-trip itinerary from the Chicago suburbs to St. Louis — with a N
 |---|---|
 | **Fri Nov 6** | 12:00 PM Enterprise pickup in Lombard → **lunch at Shimla Peppers, Naperville** (~12:30–1:30 PM, pure-veg North Indian, 1904 Brookdale Rd) → I-88 / I-355 / I-55 south, through Springfield with no stop (Lincoln Home moved to Sunday morning) → St. Louis by ~6:15–6:45 PM → **Union Station** evening: Grand Hall light show (hourly 5–10 PM), the St. Louis Wheel, dinner on site |
 | **Sat Nov 7** | **Ulysses S. Grant National Historic Site** 9:00 AM → Old Courthouse ~11:00 AM → **Gateway Arch** in the afternoon (~1:00 PM timed tram ticket) + museum → late afternoon: short Art Museum (til 5 PM) / Botanical Garden (last entry 4:30) or the Aquarium (til 7 PM) — Forest Park's only window; the Zoo (closes 4 PM) fits nowhere → **City Museum** in the evening |
-| **Sun Nov 8** | Breakfast at the hotel, pack + check out → **leave St. Louis ~7:45 AM** → **Lincoln Home National Historic Site**, Springfield ~9:20 AM (stamp + first-come house tour) → leave ~10:45–11:00 AM → **Lombard ~2:00–2:45 PM**, after-hours rental drop, well inside the assumed 9:00 PM return |
+| **Sun Nov 8** | Breakfast at the hotel, pack + check out → **leave ~8:30 AM** → **Lewis and Clark State Historic Site (Camp Dubois)**, Hartford, IL ~9:00 AM (Lewis & Clark Trail stamp; opens 9 AM, free) → **Lincoln Home National Historic Site**, Springfield ~11:30 AM (stamp; first-come house tour now a longer shot) → leave ~12:30–12:45 PM → **Lombard ~4:00–4:30 PM**, after-hours rental drop, well inside the assumed 9:00 PM return |
 
 ## Passport stamps
 
 Three NPS stamps in one weekend — and all three sites have a park store:
 
-- [ ] **Lincoln Home National Historic Site** — Visitor Center, Springfield (Eastern National bookstore) — Sun morning
+- [ ] **Lewis & Clark National Historic Trail** — Lewis and Clark State Historic Site (Camp Dubois) interpretive center, Hartford, IL — Sun morning
+- [ ] **Lincoln Home National Historic Site** — Visitor Center, Springfield (Eastern National bookstore) — Sun late morning
 - [ ] **Ulysses S. Grant National Historic Site** — Visitor Center, 7400 Grant Rd (JNPA store) — Sat morning
 - [ ] **Gateway Arch National Park** — Arch Visitor Center (The Arch Store, run by Jefferson National Parks Association) — Sat afternoon
 
@@ -38,7 +39,7 @@ The Old Courthouse (Dred Scott site, part of Gateway Arch National Park) also ha
 | File | What it is |
 |---|---|
 | `index.md` | The itinerary page (Jekyll): bookings, a live Open-Meteo weather widget for St. Louis with the trip days highlighted, the day-by-day plan, NPS park stores on the route, stamp checklist, know-before-you-go and packing checklist |
-| `map.html` | Full-screen Leaflet / OpenStreetMap map — every stop as a numbered pin (15 pins, incl. the three vegetarian restaurant options, the hotel and the Enterprise rental in Lombard), color-coded by day (🔵 Day 1 · 🟠 Day 2 · 🟢 Day 3), with a layer filter and a Google Maps link in each popup. The itinerary page embeds it |
+| `map.html` | Full-screen Leaflet / OpenStreetMap map — every stop as a numbered pin (16 pins, incl. the three vegetarian restaurant options, the hotel, the Enterprise rental in Lombard and Camp Dubois), color-coded by day (🔵 Day 1 · 🟠 Day 2 · 🟢 Day 3), with a layer filter and a Google Maps link in each popup. The itinerary page embeds it |
 | `_config.yml` | Site title, description and the `jekyll-theme-cayman` theme |
 | `README.md` | This file |
 
