@@ -21,7 +21,7 @@
 <body>
 <div id="bar">
   <h1>St. Louis Weekend — Trip Map</h1>
-  <p>Every stop, color-coded by day. Use the layer filter (top right) to show one day at a time. Tap a pin for the stop name and a Google Maps link. Restaurant locations are pinned too: Shimla Peppers (Fri lunch), Govinda's (Fri dinner option), Gokul and Bombay Food Junkies (Sat dinner options). The hotel — Quality Inn by the airport — is Day 1 pin 6, and Lincoln Home is Day 3 pin 2 (Sunday morning).</p>
+  <p>Every stop, color-coded by day. Use the layer filter (top right) to show one day at a time. Tap a pin for the stop name and a Google Maps link. Restaurant locations are pinned too: Shimla Peppers (Fri lunch), Govinda's (Fri dinner option), Gokul and Bombay Food Junkies (Sat dinner options). The hotel — Quality Inn by the airport — is Day 1 pin 6, the Enterprise rental in Lombard is Day 1 pin 7, and Lincoln Home is Day 3 pin 2 (Sunday morning).</p>
 </div>
 <div id="map"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -36,6 +36,7 @@ var STOPS = [
   { n: "4 · St. Louis Aquarium at Union Station (Sat swap option — closes 7 PM, too late Fri)", d: "day1", t: "9 AM–7 PM daily · ~$25–30 adults", lat: 38.62780, lng: -90.20754, q: "St+Louis+Aquarium+at+Union+Station" },
   { n: "5 · Govinda's Vegetarian & Vegan Restaurant (Fri dinner option)", d: "day1", t: "3926 Lindell Blvd · ISKCON temple thali · dinner Fri 6:30–8:30 PM only · (314) 666-4234", lat: 38.63885, lng: -90.24208, q: "Govindas+Vegetarian+Vegan+Restaurant+3926+Lindell+Blvd+St+Louis" },
   { n: "6 · Hotel — Quality Inn Saint Louis Airport (BOOKED, Fri–Sun)", d: "day1", t: "10232 Natural Bridge Rd · 2 rooms × 2 nights, breakfast included · check-in Fri after 3 PM (call (314) 427-5955 if past 9 PM) · check-out Sun 11:00 AM · ~20 mins NW of downtown", lat: 38.735174, lng: -90.357631, q: "Quality+Inn+Saint+Louis+Airport+10232+Natural+Bridge+Rd" },
+  { n: "7 · Rental car — Enterprise, Lombard (Fri pickup · Sun return)", d: "day1", t: "920 E Roosevelt Rd, Lombard, IL · pickup Fri 12:00 PM · Sunday return is an AFTER-HOURS drop (branch closed Sundays) · (630) 916-7700", lat: 41.86102, lng: -87.99384, q: "Enterprise+Rent-A-Car+920+E+Roosevelt+Rd+Lombard+IL" },
   // Day 2
   { n: "1 · Ulysses S. Grant National Historic Site (stamp + JNPA store)", d: "day2", t: "9:00 AM · free · 9 AM–5 PM · 7400 Grant Rd", lat: 38.55026, lng: -90.35191, q: "Ulysses+S+Grant+National+Historic+Site+St+Louis" },
   { n: "2 · Old Courthouse (Dred Scott site + JNPA shop)", d: "day2", t: "~11:00 AM · free · 9 AM–5 PM", lat: 38.62569, lng: -90.18923, q: "Old+Courthouse+11+N+4th+St+St+Louis" },

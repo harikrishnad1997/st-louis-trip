@@ -37,7 +37,7 @@ Three NPS passport stamps in one weekend: Lincoln Home, Gateway Arch, and Ulysse
 ## Bookings {#bookings}
 
 ### 🚗 Rental car — Enterprise, Lombard
-920 E Roosevelt Rd, Lombard, IL 60148 · (630) 916-7700
+[Enterprise Rent-A-Car, Lombard on Google Maps](https://www.google.com/maps/search/?api=1&query=Enterprise+Rent-A-Car+920+E+Roosevelt+Rd+Lombard+IL) — 920 E Roosevelt Rd, Lombard, IL 60148 · (630) 916-7700. It's also on the trip map below (Day 1 pin 7), and the pin's popup has its own Google Maps link.
 - Pickup **Fri Nov 6, 2026 @ 12:00 PM**
 - Return **Sun Nov 8, 2026 @ 12:00 PM**, same location
 - Chrysler Pacifica or similar, automatic, unlimited mileage, 9 additional drivers included
@@ -133,7 +133,7 @@ Backup: the [National Weather Service forecast for St. Louis](https://forecast.w
 
 ## Trip map — color-coded by day {#trip-map}
 
-Every stop on one map: 🔵 **Day 1** (Fri, drive down + Union Station) · 🟠 **Day 2** (Sat, St. Louis) · 🟢 **Day 3** (Sun, Lincoln Home + drive home). Pins are numbered in visit order — tap a pin for the stop and a Google Maps link. The restaurants are pinned too: Shimla Peppers (Fri lunch), Govinda's (Fri dinner option), and Gokul + Bombay Food Junkies (Sat dinner options), plus the Quality Inn hotel by the airport (Day 1 pin 6) and Lincoln Home on Sunday morning (Day 3 pin 2) — 14 pins in all. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone. Note the map shows the St. Louis / Springfield stops in detail; the I-55 drive itself is a straight shot between them.
+Every stop on one map: 🔵 **Day 1** (Fri, drive down + Union Station) · 🟠 **Day 2** (Sat, St. Louis) · 🟢 **Day 3** (Sun, Lincoln Home + drive home). Pins are numbered in visit order — tap a pin for the stop and a Google Maps link. The restaurants are pinned too: Shimla Peppers (Fri lunch), Govinda's (Fri dinner option), and Gokul + Bombay Food Junkies (Sat dinner options), plus the Quality Inn hotel by the airport (Day 1 pin 6), Enterprise Lombard (Day 1 pin 7), and Lincoln Home on Sunday morning (Day 3 pin 2) — 15 pins in all. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone. Note the map shows the St. Louis / Springfield stops in detail; the I-55 drive itself is a straight shot between them.
 
 <iframe src="map.html" width="100%" style="border:1px solid #ccc; border-radius:8px; height:82vh; min-height:620px;" loading="lazy" title="St. Louis weekend map — stops color-coded by day"></iframe>
 

@@ -38,7 +38,7 @@ The Old Courthouse (Dred Scott site, part of Gateway Arch National Park) also ha
 | File | What it is |
 |---|---|
 | `index.md` | The itinerary page (Jekyll): bookings, a live Open-Meteo weather widget for St. Louis with the trip days highlighted, the day-by-day plan, NPS park stores on the route, stamp checklist, know-before-you-go and packing checklist |
-| `map.html` | Full-screen Leaflet / OpenStreetMap map — every stop as a numbered pin (14 pins, incl. the three vegetarian restaurant options and the hotel), color-coded by day (🔵 Day 1 · 🟠 Day 2 · 🟢 Day 3), with a layer filter and a Google Maps link in each popup. The itinerary page embeds it |
+| `map.html` | Full-screen Leaflet / OpenStreetMap map — every stop as a numbered pin (15 pins, incl. the three vegetarian restaurant options, the hotel and the Enterprise rental in Lombard), color-coded by day (🔵 Day 1 · 🟠 Day 2 · 🟢 Day 3), with a layer filter and a Google Maps link in each popup. The itinerary page embeds it |
 | `_config.yml` | Site title, description and the `jekyll-theme-cayman` theme |
 | `README.md` | This file |
 
